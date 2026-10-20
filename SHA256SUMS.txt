@@ -1,0 +1,4 @@
+bca4ea34361ecc3b0710e35eaccf5cdd3455ee076fdec0d757391816b2d28016  repository.vexora.zip
+0a2183e4c19213174d4ea06fc53f0c8a4d981cc5a784844e5f86bdeab0fdfab8  zips/plugin.program.vexora/plugin.program.vexora-0.2.0.zip
+bca4ea34361ecc3b0710e35eaccf5cdd3455ee076fdec0d757391816b2d28016  zips/repository.vexora/repository.vexora-0.2.0.zip
+01658fbda797f1234189b9da213f477e3f7c7d3a55c3825600f1f268c7176bc2  zips/skin.vexora/skin.vexora-0.1.0.zip
