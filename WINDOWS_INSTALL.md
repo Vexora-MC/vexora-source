@@ -50,6 +50,6 @@ Wizard 0.2.10 fixes parent-folder inspection failing with WinError 5 beneath a p
 
 ## Mouse pointer and playback controls (skin 0.2.6)
 
-Update Vexora under Install from repository > Vexora Repository > Look and feel > Skin to 0.2.6; update Vexora Wizard to 0.2.12 as well to keep its bundled skin version aligned. Restart Kodi after the update. Reinstalling the full build is not required for these skin fixes.
+Update Vexora under Install from repository > Vexora Repository > Look and feel > Skin to 0.2.6; update Vexora Wizard to 0.2.13 as well to keep its bundled skin version aligned. Restart Kodi after the update. Reinstalling the full build is not required for these skin fixes.
 
 During fullscreen playback, move the mouse or press M / OK to show the controls. Play/pause, Stop, Rewind, Forward, Volume -/+, Mute and a clickable seek timeline are available. Use arrows and OK with a keyboard or remote; Back closes the overlay. Seeking and pause availability follow the playing stream's capabilities. Audio passthrough may require volume adjustment on the receiver.
