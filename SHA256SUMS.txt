@@ -2,6 +2,7 @@
 01efed2014a65b2eff0f909a99202c061676b1530e8a357f39e5977e6a82cb8d  vexora-recovery-tools.zip
 0a2183e4c19213174d4ea06fc53f0c8a4d981cc5a784844e5f86bdeab0fdfab8  zips/plugin.program.vexora/plugin.program.vexora-0.2.0.zip
 952bfe5b7c21ce2ed0f1c124b1c934176038518bbec8c1e75633f75b5c7ae6d4  zips/plugin.program.vexora/plugin.program.vexora-0.2.10.zip
+13c622eba9e68d2e593dd13e0a3f4ac5c1bd86f1a820916b0ab4e20fac996643  zips/plugin.program.vexora/plugin.program.vexora-0.2.11.zip
 4554577bae570bacaa3586d8ac32ef179327c8e5fee4e434f4589359b2f5f712  zips/plugin.program.vexora/plugin.program.vexora-0.2.2.zip
 ead494ffbd0b8ce70c436afae0e1060c928543b1264eae11852babf167819430  zips/plugin.program.vexora/plugin.program.vexora-0.2.3.zip
 f7f54fc42ce9d4dadbdd460b8d10625fa8bbdde1854ddb6bdc309eabef7ab7c1  zips/plugin.program.vexora/plugin.program.vexora-0.2.4.zip
@@ -17,3 +18,4 @@ eeb760d89c4d47f6746d308ad1161985a1f0e95d4f4fb699f1a28bca73d4531f  zips/plugin.pr
 236e4d57742a9fd65eeb5ea8ffdbe71540c7a6e7e44ce687d3942ca8a9f68466  zips/skin.vexora/skin.vexora-0.2.2.zip
 9eb2446b37a099b4d55f62a3d275f11928d543538a2f3fba56b9e0c35ecaa1c8  zips/skin.vexora/skin.vexora-0.2.3.zip
 74b25c0dce6fd2f5b990b8da81abc7f888191871015304b660fe6d92399be6c4  zips/skin.vexora/skin.vexora-0.2.4.zip
+9da4b01a93248f190e3e2175187e589df73079a977c7c9bbe4f1a9168ffa4727  zips/skin.vexora/skin.vexora-0.2.5.zip
