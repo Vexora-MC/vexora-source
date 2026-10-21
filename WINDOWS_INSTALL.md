@@ -1,6 +1,6 @@
 # Vexora Windows / Kodi 21 test build
 
-Windows installation testing is complete for Vexora Wizard 0.2.9, skin 0.2.4 and Vexora Repository 0.2.1 on Kodi 21.3. This is a development test build, not a production release. See WINDOWS_TEST_RESULTS.md for evidence and limits.
+Portable Windows installation testing passed for Vexora Wizard 0.2.9, skin 0.2.4 and Vexora Repository 0.2.1 on Kodi 21.3. This is a development test build, not a production release. See WINDOWS_TEST_RESULTS.md for evidence and limits.
 
 ## Install the complete build
 
@@ -43,3 +43,7 @@ Live TV requires your own configured PVR client and channel source. Installation
 For the downloadable Windows test bundle, use the GitHub Actions artifact named vexora-windows-kodi21-test-build. It contains this guide, test results, the repository bootstrap, original Wizard/skin packages, checksums and recovery tools. GitHub access to the private development repository is required; ordinary Kodi users can install using the public source URL.
 
 The separate vexora-build-development.zip is a developer staging payload, not a Kodi ZIP installer; its install_ready=false marker remains intentional. Install the complete build through Vexora Wizard.
+
+## App-container access-denied fix (Wizard 0.2.10)
+
+Wizard 0.2.10 fixes parent-folder inspection failing with WinError 5 beneath a protected Kodi app-package directory. Actual target access failures still stop setup; links and Windows reparse points remain rejected. Update Wizard through Vexora Repository before retrying. Do not change package-folder permissions or run Kodi as administrator to work around this error. Regression tests simulate the restricted ancestor; Windows Store/Xbox runtime validation remains outstanding.

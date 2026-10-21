@@ -1,6 +1,7 @@
 7a7bdbbeb2f87ae59d75b375176c831ce3c76431aa51707f6e9a255a64e23ef8  repository.vexora.zip
 01efed2014a65b2eff0f909a99202c061676b1530e8a357f39e5977e6a82cb8d  vexora-recovery-tools.zip
 0a2183e4c19213174d4ea06fc53f0c8a4d981cc5a784844e5f86bdeab0fdfab8  zips/plugin.program.vexora/plugin.program.vexora-0.2.0.zip
+952bfe5b7c21ce2ed0f1c124b1c934176038518bbec8c1e75633f75b5c7ae6d4  zips/plugin.program.vexora/plugin.program.vexora-0.2.10.zip
 4554577bae570bacaa3586d8ac32ef179327c8e5fee4e434f4589359b2f5f712  zips/plugin.program.vexora/plugin.program.vexora-0.2.2.zip
 ead494ffbd0b8ce70c436afae0e1060c928543b1264eae11852babf167819430  zips/plugin.program.vexora/plugin.program.vexora-0.2.3.zip
 f7f54fc42ce9d4dadbdd460b8d10625fa8bbdde1854ddb6bdc309eabef7ab7c1  zips/plugin.program.vexora/plugin.program.vexora-0.2.4.zip
