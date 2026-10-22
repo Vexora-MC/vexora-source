@@ -49,3 +49,7 @@ Candidate output: dist/universal-release-0.4.0/vexora-universal-0.4.0.zip, with 
 ## Coordinated 0.4.2 Xbox fix
 
 Wizard, skin, repository and bundled skin manifest all declare0.4.2. This supersedes the briefly published Wizard-only0.4.1 without overwriting it. Fixes the observed Xbox missing-os.fsync traceback in probes and journal writes. Optional sync preserves desktop behaviour, while Xbox retains flush/close/atomic rename/readback without a physical disk-sync guarantee. Strict version alignment, package SHA256, hosted/bundled skin equality and absent-fsync regressions are checked locally. Physical Xbox retry pending; no new CI run claimed.
+
+## 0.4.3 Xbox diagnostics
+
+Aligned Wizard/skin/repository0.4.3 retains missing-fsync fix. A caught setup failure now writes a full traceback to Kodi LOGERROR and displays details automatically, including errors importing build_manager. This repairs the missing error-reporting path; it does not claim the remaining Xbox LocalState failure has been resolved. No physical Xbox success claimed. No extra Actions validation run.
