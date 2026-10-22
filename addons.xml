@@ -9,7 +9,7 @@
     <description lang="en_GB">An original lightweight media-centre interface. Early development preview.</description>
     <platform>all</platform><license>MIT</license>
   </extension>
-</addon><addon id="plugin.program.vexora" name="Vexora Wizard" version="0.3.4" provider-name="Vexora">
+</addon><addon id="plugin.program.vexora" name="Vexora Wizard" version="0.3.5" provider-name="Vexora">
   <requires><import addon="xbmc.python" version="3.0.0" /><import addon="repository.vexora" version="0.2.2" /></requires>
   <extension point="xbmc.python.pluginsource" library="default.py"><provides>executable video</provides></extension>
   <extension point="xbmc.addon.metadata">
