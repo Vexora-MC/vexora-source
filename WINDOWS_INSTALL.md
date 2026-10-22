@@ -1,5 +1,10 @@
 # Vexora Windows / Kodi 21 test build
 
+## 0.3.4 charcoal/neon menu update
+
+Update Wizard and skin to 0.3.4, then restart Kodi. Buttons, file/context menus, keyboard, settings, confirmations and playback controls use charcoal panels and silver focus edges with neon-green accents. Added themed native add-on settings, numeric input and slider layouts, plus compact notification/progress overlays. Poster artwork and main-tab focus styles remain. Explicit provider colour tags are removed in Vexora Home metadata; providers' independent custom interfaces are outside this skin audit. Automated checks pass; interaction acceptance of the newly supplied native input/settings dialogs remains pending.
+
+
 ## 0.3.1 Power menu update
 
 Wizard and skin 0.3.1 add a POWER button at the top-right; Up from any main navigation tab reaches it. Close Kodi uses normal Kodi Quit. Force close Kodi is Windows-only, verifies that the current host is kodi.exe, then requests explicit confirmation before immediate process exit. Unsaved settings/operations may be lost; use normal Close first. An in-app button cannot work when Kodi is completely unresponsive.
