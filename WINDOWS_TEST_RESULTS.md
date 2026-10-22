@@ -1,5 +1,17 @@
 # Windows Kodi 21 test results
 
+## 0.3.0 repository test update
+
+Available test versions: Wizard 0.3.0, skin 0.3.0 and Vexora Repository 0.2.2. This is a user-testable development update, not a claim that new runtime acceptance is complete. Previous skin 0.2.6 and Wizard 0.2.13 archives remain available as fallback (avoid Wizard 0.2.12).
+
+Existing installation: open Kodi Add-on browser > Check for updates. Update Vexora Repository to 0.2.2 first, then Vexora Wizard and Vexora skin to 0.3.0 through Vexora Repository (Program add-ons / Look and feel > Skin), or Available updates. If a version is not shown, refresh repository updates and reopen its listing. Reopen Wizard > Install Vexora build to back up affected files and install/verify all six publisher repositories; updating the skin alone does not run build setup.
+
+New UI includes KIDS after TV SHOWS, TMDB poster rows, separate Sports tiles, four additional native repository sources, and direct single-add-on OK/Cancel installation. Kodi security/origin/dependency confirmations remain Kodi-owned. Optional video add-ons stay optional; Crew is shared by Movies, Sports and Kids. Third-party packages are downloaded from publishers and never bundled.
+
+Automated suites: 147 passed, two Windows symlink skips before version bump. Current native evidence: eight tabs render, Movies artwork/metadata loads and missing-Crew Kids fallback works. Populated Kids artwork/ratings/selection, all additional native installs and full upgrade acceptance still need testing. Kids hides unrated or disallowed certification metadata; it is not certified child-safe. Xbox is queued after Windows acceptance and is not supported by this test claim.
+
+The results below describe earlier versions and must not be read as acceptance of every 0.3.0 feature.
+
 Validated on 21 October 2026 using Windows Kodi 21.3 and disposable portable profiles. Personal Kodi data was not modified.
 
 Packages: Vexora Repository 0.2.1; Vexora Wizard 0.2.9; Vexora skin 0.2.4.

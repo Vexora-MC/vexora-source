@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.loop" name="repository.loop" version="3.0.4" provider-name="Upstream publisher"><extension point="xbmc.addon.repository"><dir><info>https://loopaddon.uk/zips19/addons.xml</info><checksum>https://loopaddon.uk/zips19/addons.xml.md5</checksum><datadir>https://loopaddon.uk/zips19/</datadir></dir></extension><extension point="xbmc.addon.metadata"><path>repository.loop-3.0.4.zip</path><summary>Required Vexora repository, installed from its publisher</summary><platform>all</platform></extension></addon></addons>
