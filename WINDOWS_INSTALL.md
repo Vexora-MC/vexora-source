@@ -1,5 +1,14 @@
 # Vexora Windows / Kodi 21 test build
 
+## 0.3.1 Power menu update
+
+Wizard and skin 0.3.1 add a POWER button at the top-right; Up from any main navigation tab reaches it. Close Kodi uses normal Kodi Quit. Force close Kodi is Windows-only, verifies that the current host is kodi.exe, then requests explicit confirmation before immediate process exit. Unsaved settings/operations may be lost; use normal Close first. An in-app button cannot work when Kodi is completely unresponsive.
+
+Native disposable Windows Kodi 21.3 tests confirmed both normal Close and confirmed Force close terminate Kodi as intended. Kids now displays unrated entries from the dedicated Crew Kids feeds, as requested.
+
+After updating the Wizard and skin, restart Kodi once so the updated plugin is loaded before home widgets refresh. The user confirmed this resolves the temporarily empty pages seen immediately after the previous update. Repository remains 0.2.2. Previous versioned packages are retained.
+
+
 ## 0.3.0 repository test update
 
 Available test versions: Wizard 0.3.0, skin 0.3.0 and Vexora Repository 0.2.2. This is a user-testable development update, not a claim that new runtime acceptance is complete. Previous skin 0.2.6 and Wizard 0.2.13 archives remain available as fallback (avoid Wizard 0.2.12).
@@ -8,7 +17,7 @@ Existing installation: open Kodi Add-on browser > Check for updates. Update Vexo
 
 New UI includes KIDS after TV SHOWS, TMDB poster rows, separate Sports tiles, four additional native repository sources, and direct single-add-on OK/Cancel installation. Kodi security/origin/dependency confirmations remain Kodi-owned. Optional video add-ons stay optional; Crew is shared by Movies, Sports and Kids. Third-party packages are downloaded from publishers and never bundled.
 
-Automated suites: 147 passed, two Windows symlink skips before version bump. Current native evidence: eight tabs render, Movies artwork/metadata loads and missing-Crew Kids fallback works. Populated Kids artwork/ratings/selection, all additional native installs and full upgrade acceptance still need testing. Kids hides unrated or disallowed certification metadata; it is not certified child-safe. Xbox is queued after Windows acceptance and is not supported by this test claim.
+Automated suites: 147 passed, two Windows symlink skips before version bump. Current native evidence: eight tabs render, Movies artwork/metadata loads and missing-Crew Kids fallback works. Populated Kids artwork/ratings/selection, all additional native installs and full upgrade acceptance still need testing. Kids now shows all entries returned by the dedicated Crew Kids categories, including unrated entries, as requested. It is not certified child-safe. Xbox is queued after Windows acceptance and is not supported by this test claim.
 
 The results below describe earlier versions and must not be read as acceptance of every 0.3.0 feature.
 
