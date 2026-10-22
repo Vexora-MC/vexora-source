@@ -29,6 +29,7 @@ cfd11a3d2a1f21d088115fb81eea199ccc66a7eb5ab4101d451d07d75a8ca46b  zips/plugin.pr
 0cb0f21052ab3d7c19fd513a83e08bc62fcfd88288ab0ef7afd70c9a93d1b841  zips/plugin.program.vexora/plugin.program.vexora-0.3.6.zip
 7ecfc13414072f3657b815435056223e70fac73e3bb88839817ad9e535553068  zips/plugin.program.vexora/plugin.program.vexora-0.3.7.zip
 389d592518e0bcc9d39049441276e3a8a5a0dd8b8b2b67a75253cde8344548e8  zips/plugin.program.vexora/plugin.program.vexora-0.4.0.zip
+da42366aec3d77bbe82d5e8c3d0d3b4b90d80841989e7ba5eb3698754ec1e55e  zips/plugin.program.vexora/plugin.program.vexora-0.4.1.zip
 94141387c919b01cb8f26b72fec8b8b77f13bb054acd490f4231c3953c57e6ad  zips/repository.vexora/repository.vexora-0.2.0.zip
 7a7bdbbeb2f87ae59d75b375176c831ce3c76431aa51707f6e9a255a64e23ef8  zips/repository.vexora/repository.vexora-0.2.1.zip
 0cfa3440d03e76935f204ffbd68df9d01c7b304f7f83ad61567af4ba75ae2afa  zips/repository.vexora/repository.vexora-0.2.2.zip

@@ -49,3 +49,7 @@ Candidate output: dist/universal-release-0.4.0/vexora-universal-0.4.0.zip, with 
 ## Publication approval and final CI
 
 Owner approved publication of this 0.4.0 candidate as the repository update on 2026-10-23. Implementation commit 4a34bd27556b2173c4a20042e198db37d6fdb6b7 passed the single final manual Actions run: https://github.com/djmlogistics/vexora-kodi-build/actions/runs/39870030730 . This approval supersedes the earlier local-only publication gate above. Physical Xbox validation remains pending. Previous versioned packages are retained unchanged.
+
+
+## Wizard 0.4.1 Xbox hotfix
+Native Xbox traceback identified missing os.fsync. Probe and journal writes now always flush and call fsync only when supported; actual sync errors still fail. File close, atomic rename and probe readback remain. This runtime cannot promise fsync-level durability. Local root116 passed/2 skipped; Kodi adapters35 passed. Regression removes os.fsync and verifies probe plus journal replacement. Skin and repository remain0.4.0; one shared Wizard0.4.1 for Windows/Xbox. No extra Actions run; physical Xbox retry pending.
