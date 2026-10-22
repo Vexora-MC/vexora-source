@@ -46,10 +46,6 @@ Exercised the new native-undo engine against actual Kodi JSON-RPC: captured a di
 
 Candidate output: dist/universal-release-0.4.0/vexora-universal-0.4.0.zip, with per-package and outer SHA256 metadata. The installable Wizard ZIP is inside source/zips/plugin.program.vexora; the outer archive is the complete coordinated repository delivery, not itself a Kodi add-on ZIP. No third-party ZIPs are included. Fresh full 0.4.0 installation and physical Xbox acceptance remain pending. No push or Actions was triggered.
 
-## Publication approval and final CI
+## Coordinated 0.4.2 Xbox fix
 
-Owner approved publication of this 0.4.0 candidate as the repository update on 2026-10-23. Implementation commit 4a34bd27556b2173c4a20042e198db37d6fdb6b7 passed the single final manual Actions run: https://github.com/djmlogistics/vexora-kodi-build/actions/runs/39870030730 . This approval supersedes the earlier local-only publication gate above. Physical Xbox validation remains pending. Previous versioned packages are retained unchanged.
-
-
-## Wizard 0.4.1 Xbox hotfix
-Native Xbox traceback identified missing os.fsync. Probe and journal writes now always flush and call fsync only when supported; actual sync errors still fail. File close, atomic rename and probe readback remain. This runtime cannot promise fsync-level durability. Local root116 passed/2 skipped; Kodi adapters35 passed. Regression removes os.fsync and verifies probe plus journal replacement. Skin and repository remain0.4.0; one shared Wizard0.4.1 for Windows/Xbox. No extra Actions run; physical Xbox retry pending.
+Wizard, skin, repository and bundled skin manifest all declare0.4.2. This supersedes the briefly published Wizard-only0.4.1 without overwriting it. Fixes the observed Xbox missing-os.fsync traceback in probes and journal writes. Optional sync preserves desktop behaviour, while Xbox retains flush/close/atomic rename/readback without a physical disk-sync guarantee. Strict version alignment, package SHA256, hosted/bundled skin equality and absent-fsync regressions are checked locally. Physical Xbox retry pending; no new CI run claimed.
