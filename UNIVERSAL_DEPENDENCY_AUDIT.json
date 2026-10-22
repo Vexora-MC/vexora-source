@@ -1,0 +1,1344 @@
+{
+  "addons": {
+    "inputstream.adaptive": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "windows-x86_64"
+      ],
+      "dependencies": [
+        {
+          "addon": "kodi.binary.global.main",
+          "minversion": "2.0.0",
+          "version": "2.0.2"
+        },
+        {
+          "addon": "kodi.binary.global.general",
+          "minversion": "1.0.4",
+          "version": "1.0.5"
+        },
+        {
+          "addon": "kodi.binary.global.gui",
+          "minversion": "5.15.0",
+          "version": "5.15.0"
+        },
+        {
+          "addon": "kodi.binary.global.filesystem",
+          "minversion": "1.1.7",
+          "version": "1.1.9"
+        },
+        {
+          "addon": "kodi.binary.global.tools",
+          "minversion": "1.0.0",
+          "version": "1.0.4"
+        },
+        {
+          "addon": "kodi.binary.instance.inputstream",
+          "minversion": "3.3.0",
+          "version": "3.3.0"
+        },
+        {
+          "addon": "kodi.binary.instance.videocodec",
+          "minversion": "2.1.0",
+          "version": "2.1.0"
+        }
+      ],
+      "extensions": [
+        "kodi.inputstream",
+        "xbmc.addon.metadata"
+      ],
+      "id": "inputstream.adaptive",
+      "metadata_origin": "installed Windows fixture",
+      "version": "21.5.25",
+      "xbox_runtime_validation": "pending"
+    },
+    "kodi.binary.global.filesystem": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "kodi.binary.global.filesystem",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "1.1.9",
+      "xbox_runtime_validation": "pending"
+    },
+    "kodi.binary.global.general": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "kodi.binary.global.general",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "1.0.5",
+      "xbox_runtime_validation": "pending"
+    },
+    "kodi.binary.global.gui": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "kodi.binary.global.gui",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "5.15.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "kodi.binary.global.main": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "kodi.binary.global.main",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "2.0.2",
+      "xbox_runtime_validation": "pending"
+    },
+    "kodi.binary.global.tools": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "kodi.binary.global.tools",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "1.0.4",
+      "xbox_runtime_validation": "pending"
+    },
+    "kodi.binary.instance.inputstream": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "kodi.binary.instance.inputstream",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "3.3.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "kodi.binary.instance.videocodec": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "kodi.binary.instance.videocodec",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "2.1.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.Rising.Tides": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.beautifulsoup4"
+        },
+        {
+          "addon": "script.module.requests"
+        },
+        {
+          "addon": "script.module.httplib2"
+        },
+        {
+          "addon": "inputstream.adaptive"
+        },
+        {
+          "addon": "script.module.resolveurl",
+          "optional": "false"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.service",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.Rising.Tides",
+      "metadata_origin": "installed Windows fixture",
+      "version": "3.2.10.9",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.dailymotion_com": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.six",
+          "version": "0.0.1"
+        },
+        {
+          "addon": "script.module.kodi-six",
+          "version": "0.0.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.dailymotion_com",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "2.4.5",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.loopguide": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.requests"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.loopguide",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "3.8.4",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.looptv": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.pycryptodome"
+        },
+        {
+          "addon": "script.module.pyamf"
+        },
+        {
+          "addon": "script.module.kodi-six"
+        },
+        {
+          "addon": "script.module.future"
+        },
+        {
+          "addon": "script.module.requests"
+        },
+        {
+          "addon": "script.module.routing"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.looptv",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "26+matrix.2",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.scrubsv2": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "script.module.six"
+        },
+        {
+          "addon": "script.module.kodi-six"
+        },
+        {
+          "addon": "script.module.simplejson"
+        },
+        {
+          "addon": "script.module.requests"
+        },
+        {
+          "addon": "script.module.resolveurl"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.service",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.scrubsv2",
+      "metadata_origin": "reviewed publisher package",
+      "version": "5.1.42",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.sporthdme": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "script.module.dateutil"
+        },
+        {
+          "addon": "script.module.six"
+        },
+        {
+          "addon": "script.module.requests",
+          "version": "2.19.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.sporthdme",
+      "metadata_origin": "reviewed publisher package",
+      "version": "0.1.91",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.the-loop": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.requests"
+        },
+        {
+          "addon": "script.module.routing"
+        },
+        {
+          "addon": "script.module.unidecode"
+        },
+        {
+          "addon": "script.module.tzlocal"
+        },
+        {
+          "addon": "script.module.jetextractors"
+        },
+        {
+          "addon": "script.module.inputstreamhelper"
+        },
+        {
+          "addon": "script.module.resolveurl"
+        },
+        {
+          "addon": "script.module.pytz"
+        },
+        {
+          "addon": "script.module.pyamf"
+        },
+        {
+          "addon": "plugin.video.looptv"
+        },
+        {
+          "addon": "plugin.video.dailymotion_com"
+        },
+        {
+          "addon": "plugin.video.loopguide"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.service",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.the-loop",
+      "metadata_origin": "reviewed publisher package",
+      "version": "8.3",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.thecrew": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.1"
+        },
+        {
+          "addon": "script.module.thecrew",
+          "version": "3.2.9"
+        },
+        {
+          "addon": "script.thecrew.artwork"
+        },
+        {
+          "addon": "script.module.requests"
+        },
+        {
+          "addon": "script.module.resolveurl"
+        },
+        {
+          "addon": "script.module.resolveurl.xxx",
+          "version": "2.0.1"
+        },
+        {
+          "addon": "script.module.simplejson"
+        },
+        {
+          "addon": "script.module.requests"
+        },
+        {
+          "addon": "script.module.beautifulsoup4"
+        },
+        {
+          "addon": "script.module.six"
+        },
+        {
+          "addon": "script.module.inputstreamhelper",
+          "version": "0.3.3"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.service",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.thecrew",
+      "metadata_origin": "reviewed publisher package",
+      "version": "3.2.2",
+      "xbox_runtime_validation": "pending"
+    },
+    "plugin.video.tmdbmovies": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.requests",
+          "version": "2.22.0"
+        },
+        {
+          "addon": "script.module.resolveurl",
+          "version": "5.0.0"
+        },
+        {
+          "addon": "inputstream.adaptive",
+          "version": "19.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.pluginsource",
+        "xbmc.service",
+        "kodi.context.item",
+        "xbmc.addon.metadata"
+      ],
+      "id": "plugin.video.tmdbmovies",
+      "metadata_origin": "installed Windows fixture",
+      "version": "1.1.321",
+      "xbox_runtime_validation": "pending"
+    },
+    "repository.Rising.Tides": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.addon.repository",
+        "xbmc.addon.metadata"
+      ],
+      "id": "repository.Rising.Tides",
+      "metadata_origin": "installed Windows fixture",
+      "version": "1.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "repository.angelitto": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.addon.repository",
+        "xbmc.addon.metadata"
+      ],
+      "id": "repository.angelitto",
+      "metadata_origin": "installed Windows fixture",
+      "version": "1.0.2",
+      "xbox_runtime_validation": "pending"
+    },
+    "repository.bugatsinho": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.addon.repository",
+        "xbmc.addon.metadata"
+      ],
+      "id": "repository.bugatsinho",
+      "metadata_origin": "reviewed publisher package",
+      "version": "2.8",
+      "xbox_runtime_validation": "pending"
+    },
+    "repository.jewrepo": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.addon.repository",
+        "xbmc.addon.metadata"
+      ],
+      "id": "repository.jewrepo",
+      "metadata_origin": "reviewed publisher package",
+      "version": "1.6.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "repository.loop": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.addon.repository",
+        "xbmc.addon.metadata"
+      ],
+      "id": "repository.loop",
+      "metadata_origin": "reviewed publisher package",
+      "version": "3.0.4",
+      "xbox_runtime_validation": "pending"
+    },
+    "repository.slyguy.inputstreamhelper": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.addon.repository",
+        "xbmc.addon.metadata"
+      ],
+      "id": "repository.slyguy.inputstreamhelper",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "0.0.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "repository.thecrew": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.addon.repository",
+        "xbmc.addon.metadata"
+      ],
+      "id": "repository.thecrew",
+      "metadata_origin": "reviewed publisher package",
+      "version": "0.3.8",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.backports.zoneinfo": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.tzdata",
+          "version": "2021.5"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.backports.zoneinfo",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "0.2.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.beautifulsoup4": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.soupsieve",
+          "version": "2.4.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.beautifulsoup4",
+      "metadata_origin": "installed Windows fixture",
+      "version": "4.12.2",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.certifi": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.certifi",
+      "metadata_origin": "installed Windows fixture",
+      "version": "2023.5.7",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.chardet": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.chardet",
+      "metadata_origin": "installed Windows fixture",
+      "version": "5.1.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.dateutil": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.six",
+          "version": "1.15.0+matrix.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.dateutil",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "2.8.2",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.defusedxml": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.defusedxml",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "0.6.0+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.future": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.future",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "1.0.0+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.httplib2": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.pyparsing",
+          "version": "3.1.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.httplib2",
+      "metadata_origin": "installed Windows fixture",
+      "version": "0.22.0+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.idna": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.idna",
+      "metadata_origin": "installed Windows fixture",
+      "version": "3.10.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.inputstreamhelper": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "repository.slyguy.inputstreamhelper"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.script",
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.inputstreamhelper",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "99.0.12",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.jetextractors": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "script.module.requests"
+        },
+        {
+          "addon": "script.module.beautifulsoup4"
+        },
+        {
+          "addon": "script.module.dateutil"
+        },
+        {
+          "addon": "script.module.soupsieve"
+        },
+        {
+          "addon": "script.module.pyamf"
+        },
+        {
+          "addon": "script.module.pyjsparser"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.jetextractors",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "3.3.26",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.kodi-six": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.kodi-six",
+      "metadata_origin": "installed Windows fixture",
+      "version": "0.1.3.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.pyamf": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.defusedxml",
+          "version": "0.6.0+matrix.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.pyamf",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "0.8.10+matrix.4",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.pycryptodome": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.pycryptodome",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "3.4.3",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.pyjsparser": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.pyjsparser",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "3.0.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.pyparsing": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.pyparsing",
+      "metadata_origin": "installed Windows fixture",
+      "version": "3.1.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.pyqrcode": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.pyqrcode",
+      "metadata_origin": "installed Windows fixture",
+      "version": "1.2.1+matrix.4",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.pytz": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.pytz",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "2023.3.0+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.requests": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.certifi",
+          "version": "2023.5.7"
+        },
+        {
+          "addon": "script.module.chardet",
+          "version": "5.1.0"
+        },
+        {
+          "addon": "script.module.idna",
+          "version": "3.4.0"
+        },
+        {
+          "addon": "script.module.urllib3",
+          "version": "1.26.16+matrix.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.requests",
+      "metadata_origin": "installed Windows fixture",
+      "version": "2.31.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.resolveurl": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "script.module.six"
+        },
+        {
+          "addon": "script.module.kodi-six"
+        },
+        {
+          "addon": "script.module.pyqrcode"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.python.pluginsource",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.resolveurl",
+      "metadata_origin": "installed Windows fixture",
+      "version": "5.1.208",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.resolveurl.xxx": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "script.module.resolveurl",
+          "version": "5.1.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.resolveurl.xxx",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "2.1.44",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.routing": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.routing",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "0.2.3+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.simplejson": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.simplejson",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "3.19.1+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.six": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.six",
+      "metadata_origin": "installed Windows fixture",
+      "version": "1.16.0+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.soupsieve": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.soupsieve",
+      "metadata_origin": "installed Windows fixture",
+      "version": "2.4.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.thecrew": {
+      "binary_files_observed": false,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.1"
+        },
+        {
+          "addon": "script.module.beautifulsoup4"
+        },
+        {
+          "addon": "script.module.resolveurl"
+        },
+        {
+          "addon": "script.module.resolveurl.xxx",
+          "version": "2.0.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.thecrew",
+      "metadata_origin": "reviewed publisher package",
+      "version": "3.2.26",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.tzdata": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.tzdata",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "2023.3.0+matrix.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.tzlocal": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        },
+        {
+          "addon": "script.module.tzdata",
+          "version": "2023.3.0+matrix.1"
+        },
+        {
+          "addon": "script.module.backports.zoneinfo",
+          "version": "0.2.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.tzlocal",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "5.0.1",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.unidecode": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.unidecode",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "1.3.6",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.module.urllib3": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.0"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.module.urllib3",
+      "metadata_origin": "installed Windows fixture",
+      "version": "2.2.3",
+      "xbox_runtime_validation": "pending"
+    },
+    "script.thecrew.artwork": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "all"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.python",
+          "version": "3.0.1"
+        }
+      ],
+      "extensions": [
+        "xbmc.python.module",
+        "xbmc.addon.metadata"
+      ],
+      "id": "script.thecrew.artwork",
+      "metadata_origin": "Xenon reference snapshot; not target verification",
+      "version": "3.2.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "xbmc.core": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [],
+      "extensions": [],
+      "id": "xbmc.core",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "0.1.0",
+      "xbox_runtime_validation": "pending"
+    },
+    "xbmc.python": {
+      "binary_files_observed": null,
+      "declared_platforms": [
+        "unspecified"
+      ],
+      "dependencies": [
+        {
+          "addon": "xbmc.core",
+          "version": "0.1.0"
+        }
+      ],
+      "extensions": [],
+      "id": "xbmc.python",
+      "metadata_origin": "bundled Windows runtime fixture",
+      "version": "3.0.1",
+      "xbox_runtime_validation": "pending"
+    }
+  },
+  "physical_xbox_validation": false,
+  "providers": [
+    "plugin.video.tmdbmovies",
+    "plugin.video.Rising.Tides",
+    "plugin.video.scrubsv2",
+    "plugin.video.thecrew",
+    "plugin.video.sporthdme",
+    "plugin.video.the-loop"
+  ],
+  "redistributed_third_party_packages": false,
+  "repositories": [
+    "repository.angelitto",
+    "repository.Rising.Tides",
+    "repository.jewrepo",
+    "repository.thecrew",
+    "repository.bugatsinho",
+    "repository.loop"
+  ]
+}
