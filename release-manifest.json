@@ -3,15 +3,15 @@
   "files": {
     ".gitattributes": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "SHA256SUMS.txt": "3ea83167aac28c0f59ced13178d7eb01b662bf041fadd20edf5b2acba4d6fd84",
+    "SHA256SUMS.txt": "4da4807cad2f02fc4f4f7ca1809296f0f58d4cd9d395cde4b9c178b9a9c3a95d",
     "UNIVERSAL_DEPENDENCY_AUDIT.json": "982e3dcd361a5701e16f2d97f28aefd7224399b1063ddf64dcdec8621c93ee06",
-    "UNIVERSAL_INSTALL.md": "6cf431d3fb7623acbe09868255083f5bb0b1259797f66ace106d95cf3a8fa7d6",
-    "UNIVERSAL_VALIDATION.md": "e6c4714d94dc73ed2356d89250801ab61dd1373c4d3c7da0133a5329d76b22ee",
+    "UNIVERSAL_INSTALL.md": "ab7343d269b2ddd47b50f122c2898f747090f7c607b0fc0246aabc65ec9c7a84",
+    "UNIVERSAL_VALIDATION.md": "c4ce54f93ff902d82f973bc3dc99207d0eda9a231a9fc0b48d8c758c0ed73739",
     "WINDOWS_INSTALL.md": "d95dd58bce00a62aad8093238b0c9045a3945acc9504ef56b7780713cdfbaf1f",
     "WINDOWS_TEST_RESULTS.md": "65248afa91e05045386c56488b10a7d1d473a2115ec0fabd09e2ce64940ca0ae",
     "XBOX_COMPATIBILITY.md": "b74bb20bffbc44200aafec01978499d34e6a2c0e231dec553f5f4a8dec483bbe",
-    "addons.xml": "722b13a1c8e2c056541e29930cefa01c3b114aca9022eb7d2b0c2bd5ed5a1d23",
-    "addons.xml.md5": "0300a40a3914cbab9c505344490367c44c5103441843cbd2cac93fa12a43563f",
+    "addons.xml": "5c9439c84e92d51e0a8d799037df4cffce396037b543f4e99c538056571b950a",
+    "addons.xml.md5": "e1ceccf67a17aac4c5a947f9795e575468b937a68f7435e33374b12df497399c",
     "catalog/repository.Rising.Tides/addons.xml": "feb2724521218bb8cbf25e150e519b571202ccdc59f35080dfc8348564cb174f",
     "catalog/repository.Rising.Tides/addons.xml.md5": "ff0cc0def051a28602f7b84f14197d3e4066bd401deb37de8ee952161c0ef8bd",
     "catalog/repository.angelitto/addons.xml": "8aa18129927813f0f9fbcead95ea483c72c3bee81c48a5ac43069a6f5fafdf3e",
@@ -24,14 +24,14 @@
     "catalog/repository.loop/addons.xml.md5": "7587797c03dd1e86f63004e7e001d1ef515824e8277f8f06622c5a35e4afa6fa",
     "catalog/repository.thecrew/addons.xml": "02e2b8d69f423627c47bf1622ce8bd4e8917118ee9478566248a53b3bae7e26c",
     "catalog/repository.thecrew/addons.xml.md5": "f098fd4d864e510b17a7b7e89975ff7c4933249d76838f6fef63590da664132f",
-    "index.html": "87943d77f61a194e1593ef81ef9349fcdcb192fe67ff9347ecd63aee10055ce6",
-    "repository.vexora.zip": "bea0f601f2a9fb9834137d35f29dfa6839892e4ba46f383dbf2fc7fbbf1f16e9",
-    "vexora-recovery-tools-0.4.3.zip": "eee190dfc1217c800b66252f1ac9f7b5e4363ea62ef144031b82fb608d894509",
-    "vexora-recovery-tools.zip": "eee190dfc1217c800b66252f1ac9f7b5e4363ea62ef144031b82fb608d894509",
-    "zips/plugin.program.vexora/plugin.program.vexora-0.4.3.zip": "b7c373f83c18d8d0d0511cc1edb26774b1a7b4db1582c10cb3860a59a1f9705e",
+    "index.html": "b71d1154cd9e69baa9a764033e7c52d9ff23529773949405641cf36daca37591",
+    "repository.vexora.zip": "e3af1f2458619399ff06970e463b02d1836a9af7be6f851fbcaf527266b6373e",
+    "vexora-recovery-tools-0.4.4.zip": "4d0a4d83e6f33dcb07deef4ecb4ca24f0e16685fcb33ad46215fd821dc79b974",
+    "vexora-recovery-tools.zip": "4d0a4d83e6f33dcb07deef4ecb4ca24f0e16685fcb33ad46215fd821dc79b974",
+    "zips/plugin.program.vexora/plugin.program.vexora-0.4.4.zip": "05c6bbddb3d93cac012c07399ff03e60f5c2961820703ca7d8e1f01029e910e6",
     "zips/plugin.program.vexora/resources/icon.png": "534de261c6d4908f8ea07b0598e09b3065f0a03d0c06a630a20f8b11e16fcb46",
-    "zips/repository.vexora/repository.vexora-0.4.3.zip": "bea0f601f2a9fb9834137d35f29dfa6839892e4ba46f383dbf2fc7fbbf1f16e9",
-    "zips/skin.vexora/skin.vexora-0.4.3.zip": "27bc29750027e55f8eeb474d6a932cfc35856880f8d65fd6deb68f72b68259cb"
+    "zips/repository.vexora/repository.vexora-0.4.4.zip": "e3af1f2458619399ff06970e463b02d1836a9af7be6f851fbcaf527266b6373e",
+    "zips/skin.vexora/skin.vexora-0.4.4.zip": "deeefde0be9676728c299a424ff0a65eb13ab03e43cbcf07647fa58cf429e29b"
   },
   "format": 1,
   "one_wizard_for_all_platforms": true,
@@ -45,10 +45,10 @@
     "Xbox Series X Kodi 21"
   ],
   "third_party_packages_included": false,
-  "version": "0.4.3",
+  "version": "0.4.4",
   "versions": {
-    "plugin.program.vexora": "0.4.3",
-    "repository.vexora": "0.4.3",
-    "skin.vexora": "0.4.3"
+    "plugin.program.vexora": "0.4.4",
+    "repository.vexora": "0.4.4",
+    "skin.vexora": "0.4.4"
   }
 }

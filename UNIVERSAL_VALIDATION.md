@@ -53,3 +53,7 @@ Wizard, skin, repository and bundled skin manifest all declare0.4.2. This supers
 ## 0.4.3 Xbox diagnostics
 
 Aligned Wizard/skin/repository0.4.3 retains missing-fsync fix. A caught setup failure now writes a full traceback to Kodi LOGERROR and displays details automatically, including errors importing build_manager. This repairs the missing error-reporting path; it does not claim the remaining Xbox LocalState failure has been resolved. No physical Xbox success claimed. No extra Actions validation run.
+
+## 0.4.4 confirmed Xbox backup path fix
+
+Native Xbox traceback identifies WinError5 specifically in pathlib.resolve/_getfinalpathname while recording backup root, after the write probe. Checked profile identity now uses lexical absolute normalization only when resolve raises WinError5; detected links/reparse points and actual I/O errors remain failures. Native recovery uses the same identity rule. Regression runs backup/journal/recovery with resolve denied and rejects wrong profiles/other errors. This is a targeted sandbox compatibility fix; complete physical installation still awaits owner retry. All components and skin manifest0.4.4.
