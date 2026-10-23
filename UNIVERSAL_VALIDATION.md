@@ -57,3 +57,7 @@ Aligned Wizard/skin/repository0.4.3 retains missing-fsync fix. A caught setup fa
 ## 0.4.4 confirmed Xbox backup path fix
 
 Native Xbox traceback identifies WinError5 specifically in pathlib.resolve/_getfinalpathname while recording backup root, after the write probe. Checked profile identity now uses lexical absolute normalization only when resolve raises WinError5; detected links/reparse points and actual I/O errors remain failures. Native recovery uses the same identity rule. Regression runs backup/journal/recovery with resolve denied and rejects wrong profiles/other errors. This is a targeted sandbox compatibility fix; complete physical installation still awaits owner retry. All components and skin manifest0.4.4.
+
+## 0.4.5 controller navigation
+
+Fixes group-list numeric navigation being replaced by Kodi: Movies/TV/Kids rows now use explicit SetFocus actions and section group exits. Skin21 tests pass. Source evidence https://github.com/xbmc/xbmc/blob/Omega/xbmc/guilib/GUIControlGroupList.cpp AddControl. Xbox physical retry pending. Components aligned0.4.5; missing-fsync and final-path backup fixes retained.
