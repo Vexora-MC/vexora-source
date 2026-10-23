@@ -32,7 +32,7 @@ Portable Windows installation testing passed for Vexora Wizard 0.2.9, skin 0.2.4
 
 1. Install and open Kodi 21 Omega on Windows.
 2. Kodi Settings > File manager > Add source.
-3. Enter https://djmlogistics.github.io/vexora-source/ and name it Vexora.
+3. Enter https://vexora-mc.github.io/vexora-source/ and name it Vexora.
 4. Add-ons > Install from ZIP > Vexora > repository.vexora.zip. If Kodi requires Unknown sources, review its warning and enable it yourself.
 5. Install from repository > Vexora Repository > Program add-ons > Vexora Wizard > Install.
 6. Open Vexora Wizard > Install Vexora build and accept the whole-build consent.

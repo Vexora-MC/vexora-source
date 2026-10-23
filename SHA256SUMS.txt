@@ -1,4 +1,4 @@
-5f99a9e8f0bce2dbbb290a529b8270a22e7a280e02a2945e9294a27a7e0c3134  repository.vexora.zip
+80252c10551d5bb4415edd7fa4776a174c0c740c99e125c32cc3acb0d7e089f0  repository.vexora.zip
 01efed2014a65b2eff0f909a99202c061676b1530e8a357f39e5977e6a82cb8d  vexora-recovery-tools-0.2.13.zip
 e946733ecec0250252991688ca7b20d4467fb9f17d3caf83d13cb2598ace610b  vexora-recovery-tools-0.3.0.zip
 e946733ecec0250252991688ca7b20d4467fb9f17d3caf83d13cb2598ace610b  vexora-recovery-tools-0.3.1.zip
@@ -41,7 +41,7 @@ b7c373f83c18d8d0d0511cc1edb26774b1a7b4db1582c10cb3860a59a1f9705e  zips/plugin.pr
 05c6bbddb3d93cac012c07399ff03e60f5c2961820703ca7d8e1f01029e910e6  zips/plugin.program.vexora/plugin.program.vexora-0.4.4.zip
 219297127056cc2b906830557e949a329d9ed1f47f653e3e36005e51b7d727bb  zips/plugin.program.vexora/plugin.program.vexora-0.4.5.zip
 71dbf73f48a21cd3de952856bfcb62f1362fc38d3d9f028955d7cc53f3fd5396  zips/plugin.program.vexora/plugin.program.vexora-0.4.6.zip
-af07838909e7ee1987b1a74a0f30534b9708cb852add926bbad7569bce096300  zips/plugin.program.vexora/plugin.program.vexora-0.4.7.zip
+8348fbf777e543c1e67c760b47fe2a2c42d9b0a81d6740761a0521b0364ec660  zips/plugin.program.vexora/plugin.program.vexora-0.4.7.zip
 94141387c919b01cb8f26b72fec8b8b77f13bb054acd490f4231c3953c57e6ad  zips/repository.vexora/repository.vexora-0.2.0.zip
 7a7bdbbeb2f87ae59d75b375176c831ce3c76431aa51707f6e9a255a64e23ef8  zips/repository.vexora/repository.vexora-0.2.1.zip
 0cfa3440d03e76935f204ffbd68df9d01c7b304f7f83ad61567af4ba75ae2afa  zips/repository.vexora/repository.vexora-0.2.2.zip
@@ -51,7 +51,7 @@ bea0f601f2a9fb9834137d35f29dfa6839892e4ba46f383dbf2fc7fbbf1f16e9  zips/repositor
 e3af1f2458619399ff06970e463b02d1836a9af7be6f851fbcaf527266b6373e  zips/repository.vexora/repository.vexora-0.4.4.zip
 ba4a527c57ff294d56a9a8ee5b352d2802610af6309666bb052e89decaca4659  zips/repository.vexora/repository.vexora-0.4.5.zip
 de375ac180967c1b2284ede1856c1089bfd6f1bcfeb044b798dacb7c15b584bc  zips/repository.vexora/repository.vexora-0.4.6.zip
-5f99a9e8f0bce2dbbb290a529b8270a22e7a280e02a2945e9294a27a7e0c3134  zips/repository.vexora/repository.vexora-0.4.7.zip
+80252c10551d5bb4415edd7fa4776a174c0c740c99e125c32cc3acb0d7e089f0  zips/repository.vexora/repository.vexora-0.4.7.zip
 01658fbda797f1234189b9da213f477e3f7c7d3a55c3825600f1f268c7176bc2  zips/skin.vexora/skin.vexora-0.1.0.zip
 0f5ee18e7d18c216d4bc0ab61b1ff014519690a020f813df743eb706a0182cfc  zips/skin.vexora/skin.vexora-0.2.1.zip
 236e4d57742a9fd65eeb5ea8ffdbe71540c7a6e7e44ce687d3942ca8a9f68466  zips/skin.vexora/skin.vexora-0.2.2.zip

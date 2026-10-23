@@ -1,6 +1,6 @@
 # Vexora 0.4.7 - installation and recovery
 
-This distribution contains one complete Vexora build: Wizard 0.4.7, skin 0.4.7 and repository 0.4.7. The identical Wizard ZIP is used for Windows PC and UWP/Xbox Kodi 21. There is one source and update channel: https://djmlogistics.github.io/vexora-source/ . Physical Xbox One/Series S/Series X validation is pending; treat the prepared distribution as a release candidate until those checks pass.
+This distribution contains one complete Vexora build: Wizard 0.4.7, skin 0.4.7 and repository 0.4.7. The identical Wizard ZIP is used for Windows PC and UWP/Xbox Kodi 21. There is one source and update channel: https://vexora-mc.github.io/vexora-source/ . Physical Xbox One/Series S/Series X validation is pending; treat the prepared distribution as a release candidate until those checks pass.
 
 ## Install after coordinated publication is approved
 
