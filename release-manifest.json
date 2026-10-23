@@ -3,6 +3,7 @@
   "files": {
     ".gitattributes": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "MIGRATION.md": "7abb17ec100302e09fc20d44a0a0c76f48eccb8d3d77685251990f495b693a57",
     "SHA256SUMS.txt": "91cf3ab31974e2763e454271b473a02d357ec7b5cb8915ef5ce0b4243ec4814c",
     "UNIVERSAL_DEPENDENCY_AUDIT.json": "982e3dcd361a5701e16f2d97f28aefd7224399b1063ddf64dcdec8621c93ee06",
     "UNIVERSAL_INSTALL.md": "51f127c9fbf4e847167f16dafd2177caa524c3d828998106d25fdca7c54084e8",
@@ -24,7 +25,7 @@
     "catalog/repository.loop/addons.xml.md5": "7587797c03dd1e86f63004e7e001d1ef515824e8277f8f06622c5a35e4afa6fa",
     "catalog/repository.thecrew/addons.xml": "02e2b8d69f423627c47bf1622ce8bd4e8917118ee9478566248a53b3bae7e26c",
     "catalog/repository.thecrew/addons.xml.md5": "f098fd4d864e510b17a7b7e89975ff7c4933249d76838f6fef63590da664132f",
-    "index.html": "6380e3f06ac885bde10c430f009a2bcf98cdd57b4aa26daefbcd3a4627201101",
+    "index.html": "eaafd0ed6137fdeec112ca57be5415f3188c07ce4c606c8eaec39486f2c68386",
     "repository.vexora.zip": "80252c10551d5bb4415edd7fa4776a174c0c740c99e125c32cc3acb0d7e089f0",
     "vexora-recovery-tools-0.2.13.zip": "01efed2014a65b2eff0f909a99202c061676b1530e8a357f39e5977e6a82cb8d",
     "vexora-recovery-tools-0.3.0.zip": "e946733ecec0250252991688ca7b20d4467fb9f17d3caf83d13cb2598ace610b",
