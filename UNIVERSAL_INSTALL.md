@@ -1,12 +1,12 @@
-# Vexora 0.4.5 - installation and recovery
+# Vexora 0.4.6 - installation and recovery
 
-This distribution contains one complete Vexora build: Wizard 0.4.5, skin 0.4.5 and repository 0.4.5. The identical Wizard ZIP is used for Windows PC and UWP/Xbox Kodi 21. There is one source and update channel: https://djmlogistics.github.io/vexora-source/ . Physical Xbox One/Series S/Series X validation is pending; treat the prepared distribution as a release candidate until those checks pass.
+This distribution contains one complete Vexora build: Wizard 0.4.6, skin 0.4.6 and repository 0.4.6. The identical Wizard ZIP is used for Windows PC and UWP/Xbox Kodi 21. There is one source and update channel: https://djmlogistics.github.io/vexora-source/ . Physical Xbox One/Series S/Series X validation is pending; treat the prepared distribution as a release candidate until those checks pass.
 
 ## Install after coordinated publication is approved
 
 1. Keep the currently working Vexora installation and export important personal settings. Do not uninstall Kodi or delete its profile.
 2. Open Kodi 21. Add the source URL above in File manager. Install `repository.vexora.zip` from that source, reviewing Kodi's security prompts yourself.
-3. Install or update Vexora Wizard from Vexora Repository > Program add-ons, and the matching Vexora skin from Look and feel > Skin. Both must be 0.4.5. The Wizard opens Kodi's native version-selection UI if an older skin needs updating; complete that update, then reopen the Wizard.
+3. Install or update Vexora Wizard from Vexora Repository > Program add-ons, and the matching Vexora skin from Look and feel > Skin. Both must be 0.4.6. The Wizard opens Kodi's native version-selection UI if an older skin needs updating; complete that update, then reopen the Wizard.
 4. Restart Kodi after updating the Wizard and skin to ensure new widget code is loaded. Open Wizard > Install Vexora build. Read the full-build consent.
 5. The same installer validates publisher archives, probes only Kodi's translated add-on/profile directories, backs up affected files and the add-on database, installs and verifies all six repositories through Kodi, verifies skin files and requests skin activation. Confirm keeping the skin if Kodi asks. Cancel stops the operation; failures retain the recovery checkpoint.
 6. Choose optional video add-ons during first-run setup or later from their artwork tiles. A tile has one Vexora OK/Cancel install confirmation. Kodi may require its own origin/security/dependency prompts. Kodi resolves required dependencies; ready state is verified before launching.
@@ -21,7 +21,7 @@ Mouse/keyboard and native remote/controller focus are supported by the same skin
 
 Wizard > Recovery backups offers native **Undo setup** for newly created backups. It restores the previous skin selection and the original enabled/disabled states of managed skin/repositories through Kodi APIs. Newly downloaded packages are retained but disabled. It checks the profile, managed ID allowlist and original versions before changes; version differences require Kodi's own Versions workflow. Confirm the previous skin if asked. This operation does not downgrade files, restore a live database or remove unrelated add-ons.
 
-Existing pre-0.4.5 backups do not contain enabled-state snapshots and require full offline recovery. A partially completed native undo retains its journal and can be retried. If the previous skin has been removed/disabled, restore/enable it in Kodi first. If setup cannot open, switch to Kodi's bundled skin through Interface settings and reopen the Wizard.
+Existing pre-0.4.6 backups do not contain enabled-state snapshots and require full offline recovery. A partially completed native undo retains its journal and can be retried. If the previous skin has been removed/disabled, restore/enable it in Kodi first. If setup cannot open, switch to Kodi's bundled skin through Interface settings and reopen the Wizard.
 
 ## Full stopped-Kodi restore
 

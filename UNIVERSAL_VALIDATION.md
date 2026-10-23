@@ -61,3 +61,11 @@ Native Xbox traceback identifies WinError5 specifically in pathlib.resolve/_getf
 ## 0.4.5 controller navigation
 
 Fixes group-list numeric navigation being replaced by Kodi: Movies/TV/Kids rows now use explicit SetFocus actions and section group exits. Skin21 tests pass. Source evidence https://github.com/xbmc/xbmc/blob/Omega/xbmc/guilib/GUIControlGroupList.cpp AddControl. Xbox physical retry pending. Components aligned0.4.5; missing-fsync and final-path backup fixes retained.
+
+## 0.4.6 automatic skin save and focus
+
+After native skin confirmation the Wizard now invokes Kodi Interface settings/Back itself and verifies saved guisettings.xml selection before declaring setup complete. No manual settings visit, direct XML rewriting or boot-time override. Interface may appear briefly. Regression: native-save callback/readback, wrong-window/modal refusal and failed save remains incomplete. Root123 passed/2 skipped; skin22 passed. Corrected remaining poster trap with unique IDs on direct-child layout groups, allowing Kodi sibling navigation through hero to poster rows. Physical Xbox retry pending. Added local per-assessment dependency memoization; no measured total startup improvement claimed.
+
+## 0.4.6 final validation
+
+Implementation acc1ac3e413adff889c69acd88eaadd142104888 passed Actions run39879318707 attempt2, including artifact upload after owner-approved storage cleanup/budget update. The first attempt passed tests/build but could not upload because storage was full; it is not counted as a code failure. Artifact12469324076, vexora-universal-kodi21. One shared package, all components and nested skin0.4.6. This publication preserves previous versioned packages. Automatic saving and poster-controller changes still require owner Xbox runtime acceptance; do not claim measured startup speedup.
