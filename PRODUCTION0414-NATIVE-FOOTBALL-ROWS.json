@@ -1,0 +1,77 @@
+{
+  "native_windows": true,
+  "physical_xbox": false,
+  "provider_listings_real": true,
+  "route": "Rising Tides / Football Live",
+  "rows": [
+    {
+      "index": 0,
+      "name": "CARABAO CUP",
+      "item_count": 12,
+      "controller_focus": true
+    },
+    {
+      "index": 1,
+      "name": "Serie A",
+      "item_count": 40,
+      "controller_focus": true
+    },
+    {
+      "index": 2,
+      "name": "COPPA ITALIA",
+      "item_count": 21,
+      "controller_focus": true
+    },
+    {
+      "index": 3,
+      "name": "LIGUE1",
+      "item_count": 64,
+      "controller_focus": true
+    },
+    {
+      "index": 4,
+      "name": "COUPE DE FRANCE",
+      "item_count": 23,
+      "controller_focus": true
+    },
+    {
+      "index": 5,
+      "name": "UCL",
+      "item_count": 35,
+      "controller_focus": true
+    },
+    {
+      "index": 6,
+      "name": "CL",
+      "item_count": 45,
+      "controller_focus": true
+    },
+    {
+      "index": 7,
+      "name": "EL",
+      "item_count": 13,
+      "controller_focus": true
+    },
+    {
+      "index": 8,
+      "name": "CONFERENCE LEAGUE",
+      "item_count": 1,
+      "controller_focus": true
+    },
+    {
+      "index": 9,
+      "name": "ECL",
+      "item_count": 13,
+      "controller_focus": true
+    },
+    {
+      "index": 10,
+      "name": "NATIONS LEAGUE",
+      "item_count": 32,
+      "controller_focus": true
+    }
+  ],
+  "passed": true,
+  "competition_count": 11,
+  "up_navigation_passed": true
+}
