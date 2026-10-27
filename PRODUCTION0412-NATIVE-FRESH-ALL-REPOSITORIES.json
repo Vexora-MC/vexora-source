@@ -1,0 +1,554 @@
+{
+  "candidate": "fresh-0412",
+  "native_windows": true,
+  "physical_xbox": false,
+  "actual_wizard_plugin_route": true,
+  "mocked_installer_functions": false,
+  "network_transport_replaced": false,
+  "selection_confirmations": 1,
+  "initial_build_confirmations": 1,
+  "summary_seen": true,
+  "skin_before": "skin.estuary",
+  "finished": true,
+  "skin_after": "skin.vexora",
+  "installing_property_cleared": true,
+  "setup-health.json": {
+    "addons": {
+      "plugin.video.Rising.Tides": {
+        "blockers": [],
+        "dependencies_ready": true,
+        "updates": {
+          "origin": "",
+          "rules": [],
+          "status": "manual_or_system"
+        }
+      },
+      "plugin.video.madtitansports": {
+        "blockers": [],
+        "dependencies_ready": true,
+        "updates": {
+          "origin": "repository.Magnetic",
+          "rules": [],
+          "status": "publisher_recorded"
+        }
+      },
+      "plugin.video.scrubsv2": {
+        "blockers": [],
+        "dependencies_ready": true,
+        "updates": {
+          "origin": "repository.jewrepo",
+          "rules": [],
+          "status": "publisher_recorded"
+        }
+      },
+      "plugin.video.sporthdme": {
+        "blockers": [],
+        "dependencies_ready": true,
+        "updates": {
+          "origin": "repository.bugatsinho",
+          "rules": [],
+          "status": "publisher_recorded"
+        }
+      },
+      "plugin.video.the-loop": {
+        "blockers": [],
+        "dependencies_ready": true,
+        "updates": {
+          "origin": "repository.loop",
+          "rules": [],
+          "status": "publisher_recorded"
+        }
+      },
+      "plugin.video.thecrew": {
+        "blockers": [],
+        "dependencies_ready": true,
+        "updates": {
+          "origin": "repository.thecrew",
+          "rules": [],
+          "status": "publisher_recorded"
+        }
+      },
+      "plugin.video.tmdbmovies": {
+        "blockers": [],
+        "dependencies_ready": true,
+        "updates": {
+          "origin": "repository.angelitto",
+          "rules": [
+            2
+          ],
+          "status": "held"
+        }
+      }
+    },
+    "crew_compatibility": {
+      "status": "already_applied",
+      "version": "3.2.26.4~vexoratest1"
+    },
+    "external_provider_playback": "not_verified",
+    "format": 1,
+    "repositories": {
+      "repository.Magnetic": {
+        "origin": "repository.Magnetic",
+        "rules": [],
+        "status": "publisher_recorded"
+      },
+      "repository.Rising.Tides": {
+        "origin": "repository.Rising.Tides",
+        "rules": [],
+        "status": "publisher_recorded"
+      },
+      "repository.angelitto": {
+        "origin": "repository.angelitto",
+        "rules": [],
+        "status": "publisher_recorded"
+      },
+      "repository.bugatsinho": {
+        "origin": "repository.bugatsinho",
+        "rules": [],
+        "status": "publisher_recorded"
+      },
+      "repository.jewrepo": {
+        "origin": "repository.jewrepo",
+        "rules": [],
+        "status": "publisher_recorded"
+      },
+      "repository.loop": {
+        "origin": "repository.loop",
+        "rules": [],
+        "status": "publisher_recorded"
+      },
+      "repository.thecrew": {
+        "origin": "repository.thecrew",
+        "rules": [],
+        "status": "publisher_recorded"
+      }
+    },
+    "repositories_enabled": {
+      "repository.Magnetic": true,
+      "repository.Rising.Tides": true,
+      "repository.angelitto": true,
+      "repository.bugatsinho": true,
+      "repository.jewrepo": true,
+      "repository.loop": true,
+      "repository.thecrew": true
+    },
+    "sports_crypto": {
+      "backend": "Cryptodome",
+      "status": "available"
+    }
+  },
+  "optional-setup.json": {
+    "format": 1,
+    "results": {
+      "plugin.video.Rising.Tides": {
+        "status": "installed",
+        "update_status": "requested_not_verified"
+      },
+      "plugin.video.madtitansports": {
+        "status": "installed",
+        "update_status": "requested_not_verified"
+      },
+      "plugin.video.scrubsv2": {
+        "status": "installed",
+        "update_status": "requested_not_verified"
+      },
+      "plugin.video.sporthdme": {
+        "status": "installed",
+        "update_status": "requested_not_verified"
+      },
+      "plugin.video.the-loop": {
+        "status": "installed",
+        "update_status": "requested_not_verified"
+      },
+      "plugin.video.thecrew": {
+        "status": "installed",
+        "update_status": "requested_not_verified"
+      },
+      "plugin.video.tmdbmovies": {
+        "status": "installed",
+        "update_status": "requested_not_verified"
+      }
+    },
+    "selected": [
+      "tmdb_movies",
+      "rising",
+      "scrubs",
+      "crew",
+      "sporthd",
+      "loop",
+      "mad_titan"
+    ],
+    "status": "completed"
+  },
+  "repository-setup-report.json": {
+    "format": 1,
+    "method": "owner-approved bulk repository provisioning",
+    "phase": "registered",
+    "results": {
+      "repository.709": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.2"
+      },
+      "repository.Fido": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.G00380316": {
+        "created": true,
+        "status": "verified",
+        "version": "3.1.1"
+      },
+      "repository.Magnetic": {
+        "created": true,
+        "status": "verified",
+        "version": "1.1.0b"
+      },
+      "repository.Palantir": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.Rising.Tides": {
+        "created": true,
+        "status": "verified",
+        "version": "1.1"
+      },
+      "repository.Rockcrusher": {
+        "created": true,
+        "status": "verified",
+        "version": "2.8"
+      },
+      "repository.a4kstreaming": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.addonniss": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.1"
+      },
+      "repository.adulthideout": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.5"
+      },
+      "repository.alfa-addon": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.8"
+      },
+      "repository.aliunde": {
+        "created": true,
+        "status": "verified",
+        "version": "1.9.5"
+      },
+      "repository.angelitto": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.2"
+      },
+      "repository.bingie": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.0"
+      },
+      "repository.bugatsinho": {
+        "created": true,
+        "status": "verified",
+        "version": "2.8"
+      },
+      "repository.cMaNWizard": {
+        "created": true,
+        "status": "verified",
+        "version": "3.5"
+      },
+      "repository.castagnait": {
+        "created": true,
+        "status": "verified",
+        "version": "2.0.1"
+      },
+      "repository.chainsrepo": {
+        "created": true,
+        "status": "verified",
+        "version": "0.0.15"
+      },
+      "repository.cocoscrapers": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.0"
+      },
+      "repository.comet": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.0"
+      },
+      "repository.dexe": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.11"
+      },
+      "repository.diggz": {
+        "created": true,
+        "status": "verified",
+        "version": "28"
+      },
+      "repository.dis90": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.1"
+      },
+      "repository.djaythemes": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.dobbelina": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.4"
+      },
+      "repository.doomzday": {
+        "created": true,
+        "status": "verified",
+        "version": "1.2.3"
+      },
+      "repository.enigmawiz": {
+        "created": true,
+        "status": "verified",
+        "version": "2.1.8"
+      },
+      "repository.fenskeleton": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.2"
+      },
+      "repository.frenchdj": {
+        "created": true,
+        "status": "verified",
+        "version": "0.0.3"
+      },
+      "repository.fuchs246": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.2"
+      },
+      "repository.funstersplace": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.gearheads2": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.grindhousekodi": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.gujal": {
+        "created": true,
+        "status": "verified",
+        "version": "2.0.3"
+      },
+      "repository.hermit": {
+        "created": true,
+        "status": "verified",
+        "version": "1.5.1"
+      },
+      "repository.hooty": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0"
+      },
+      "repository.jewrepo": {
+        "created": true,
+        "status": "verified",
+        "version": "1.6.0"
+      },
+      "repository.jurialmunkey": {
+        "created": true,
+        "status": "verified",
+        "version": "3.5"
+      },
+      "repository.kodifitzwell": {
+        "created": true,
+        "status": "verified",
+        "version": "0.0.1"
+      },
+      "repository.lime": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.4"
+      },
+      "repository.loop": {
+        "created": true,
+        "status": "verified",
+        "version": "3.0.4"
+      },
+      "repository.lunatixz": {
+        "created": true,
+        "status": "verified",
+        "version": "1.1.3"
+      },
+      "repository.lynxstrike": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.05"
+      },
+      "repository.marcelveldt": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.3"
+      },
+      "repository.matrix": {
+        "created": true,
+        "status": "verified",
+        "version": "2026.10.02"
+      },
+      "repository.mbebe": {
+        "created": true,
+        "status": "verified",
+        "version": "0.10"
+      },
+      "repository.mdblist": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.0"
+      },
+      "repository.mrfixit2001": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.2"
+      },
+      "repository.mtr81": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0"
+      },
+      "repository.newdiamond": {
+        "created": true,
+        "status": "verified",
+        "version": "2.2"
+      },
+      "repository.oldsalt": {
+        "created": true,
+        "status": "verified",
+        "version": "1.6"
+      },
+      "repository.otaku.testing": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0"
+      },
+      "repository.peno64": {
+        "created": true,
+        "status": "verified",
+        "version": "1.5"
+      },
+      "repository.pikdum": {
+        "created": true,
+        "status": "verified",
+        "version": "0.1.0"
+      },
+      "repository.prism": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0"
+      },
+      "repository.rdplayer": {
+        "created": true,
+        "status": "verified",
+        "version": "1.1.4"
+      },
+      "repository.redwizard": {
+        "created": true,
+        "status": "verified",
+        "version": "1.2.2"
+      },
+      "repository.resolveurl": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.0"
+      },
+      "repository.rocky4546": {
+        "created": true,
+        "status": "verified",
+        "version": "0.2.4"
+      },
+      "repository.sandmann79.plugins": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.4"
+      },
+      "repository.slyguy": {
+        "created": true,
+        "status": "verified",
+        "version": "0.0.9"
+      },
+      "repository.slyguy.inputstreamhelper": {
+        "created": true,
+        "status": "verified",
+        "version": "0.0.1"
+      },
+      "repository.stremioforkodi": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.tekbec": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.0"
+      },
+      "repository.thecrew": {
+        "created": true,
+        "status": "verified",
+        "version": "0.3.8"
+      },
+      "repository.tidb.repo": {
+        "created": true,
+        "status": "verified",
+        "version": "2.0.0"
+      },
+      "repository.twistednutz": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.umbrella": {
+        "created": true,
+        "status": "verified",
+        "version": "2.2.6"
+      },
+      "repository.vstream": {
+        "created": true,
+        "status": "verified",
+        "version": "0.0.6"
+      },
+      "repository.wod": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.xbmc.org": {
+        "reason": "Kodi-managed repository",
+        "status": "reused"
+      },
+      "repository.zachmorris": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.4"
+      },
+      "repository.zeus768": {
+        "reason": "No verified compatible publisher package found",
+        "status": "excluded"
+      },
+      "repository.zstream": {
+        "created": true,
+        "status": "verified",
+        "version": "1.0.1"
+      }
+    }
+  },
+  "crew-compat.json": {
+    "status": "already_applied",
+    "version": "3.2.26.4~vexoratest1"
+  },
+  "freshly_created_repositories_verified": 62,
+  "staging_directories_and_claims_remaining": []
+}

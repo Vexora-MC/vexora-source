@@ -1,0 +1,38 @@
+{
+  "native_windows": true,
+  "physical_xbox": false,
+  "clean_normal_restart": true,
+  "versions": {
+    "repository.vexora": {
+      "addonid": "repository.vexora",
+      "enabled": true,
+      "type": "xbmc.addon.repository",
+      "version": "0.4.12"
+    },
+    "plugin.program.vexora": {
+      "addonid": "plugin.program.vexora",
+      "enabled": true,
+      "type": "xbmc.python.pluginsource",
+      "version": "0.4.12"
+    },
+    "skin.vexora": {
+      "addonid": "skin.vexora",
+      "enabled": true,
+      "type": "xbmc.gui.skin",
+      "version": "0.4.12"
+    }
+  },
+  "all_62_repositories_enabled_after_restart": true,
+  "active_skin": {
+    "id": "skin.vexora",
+    "name": "Vexora"
+  },
+  "restart_process_evidence": {
+    "normal_exit_verified": true,
+    "before": [
+      null
+    ],
+    "after": 22012
+  },
+  "restart_note": "Prior graceful quit had already completed; process absence verified before a new launch. Repeated quit request found no listener."
+}
