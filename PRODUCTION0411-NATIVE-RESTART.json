@@ -1,0 +1,45 @@
+{
+  "native_windows": true,
+  "clean_normal_restart": true,
+  "versions": {
+    "repository.vexora": {
+      "addonid": "repository.vexora",
+      "enabled": true,
+      "type": "xbmc.addon.repository",
+      "version": "0.4.11"
+    },
+    "plugin.program.vexora": {
+      "addonid": "plugin.program.vexora",
+      "enabled": true,
+      "type": "xbmc.python.pluginsource",
+      "version": "0.4.11"
+    },
+    "skin.vexora": {
+      "addonid": "skin.vexora",
+      "enabled": true,
+      "type": "xbmc.gui.skin",
+      "version": "0.4.11"
+    }
+  },
+  "active_skin": {
+    "id": "skin.vexora",
+    "name": "Vexora"
+  },
+  "football_game_count": 10,
+  "football_game_labels": [
+    "[B]Chelsea vs. Manchester United[/B] [B][Premier League][/B] [B]Sat 31 Oct 12:30 UTC[/B] (Premier League)",
+    "[B]AFC Bournemouth vs. Leeds United[/B] [B][Premier League][/B] [B]Sat 31 Oct 15:00 UTC[/B] (Premier League)",
+    "[B]Brentford vs. Nottingham Forest[/B] [B][Premier League][/B] [B]Sat 31 Oct 15:00 UTC[/B] (Premier League)",
+    "[B]Coventry City vs. Sunderland[/B] [B][Premier League][/B] [B]Sat 31 Oct 15:00 UTC[/B] (Premier League)",
+    "[B]Hull City vs. Ipswich Town[/B] [B][Premier League][/B] [B]Sat 31 Oct 15:00 UTC[/B] (Premier League)",
+    "[B]Manchester City vs. Brighton & Hove Albion[/B] [B][Premier League][/B] [B]Sat 31 Oct 15:00 UTC[/B] (Premier League)",
+    "[B]Tottenham Hotspur vs. Crystal Palace[/B] [B][Premier League][/B] [B]Sat 31 Oct 17:30 UTC[/B] (Premier League)",
+    "[B]Aston Villa vs. Fulham[/B] [B][Premier League][/B] [B]Sat 31 Oct 20:00 UTC[/B] (Premier League)",
+    "[B]Liverpool vs. Arsenal[/B] [B][Premier League][/B] [B]Sun 01 Nov 16:30 UTC[/B] (Premier League)",
+    "[B]Newcastle United vs. Everton[/B] [B][Premier League][/B] [B]Mon 02 Nov 20:00 UTC[/B] (Premier League)"
+  ],
+  "menu_cards_returned": false,
+  "playback_tested_by_agent": false,
+  "physical_xbox_accepted_by_owner": false,
+  "physical_xbox_retest_required": true
+}
