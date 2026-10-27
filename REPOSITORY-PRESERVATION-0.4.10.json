@@ -1,0 +1,1231 @@
+{
+  "version": "0.4.10",
+  "repositories": {
+    "repository.709": {
+      "version": "1.0.2",
+      "sha256": "2f2fb6e50d8c52f319591cb1b4d89bca0a546d5d6c29682a8be62fcfbb7992ee",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Zaxxon709/zaxxon/main/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Zaxxon709/zaxxon/main/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Zaxxon709/zaxxon/main/zips/"
+        }
+      ]
+    },
+    "repository.addonniss": {
+      "version": "1.0.1",
+      "sha256": "2c9f91b3d468f210c49d09a7e310f5a3a630319c4694dbc86e7b6715b53770b1",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://addonniss.github.io/repository.addonniss/zips/addons.xml",
+          "checksum": "https://addonniss.github.io/repository.addonniss/zips/addons.xml.md5",
+          "datadir": "https://addonniss.github.io/repository.addonniss/zips/"
+        }
+      ]
+    },
+    "repository.adulthideout": {
+      "version": "1.0.5",
+      "sha256": "bebf23cbe3b58f1b1cc722e26493e2218e8fb1b334a2dd38458b23c2c657efb7",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://github.com/Vashiel/repository.adulthideout/raw/master/addons.xml",
+          "checksum": "https://github.com/Vashiel/repository.adulthideout/raw/master/addons.xml.md5",
+          "datadir": "https://github.com/Vashiel/repository.adulthideout/raw/master/zips"
+        },
+        {
+          "info": "https://github.com/Vashiel/repository.adulthideout/raw/master/addons.xml",
+          "checksum": "https://github.com/Vashiel/repository.adulthideout/raw/master/addons.xml.md5",
+          "datadir": "https://github.com/Vashiel/repository.adulthideout/raw/master/zips"
+        }
+      ]
+    },
+    "repository.alfa-addon": {
+      "version": "1.0.8",
+      "sha256": "c94aef019b5b2232ff10ecce703af2931a43d7cdf55bd0277262da7b7cda47e4",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/alfa-addon/alfa-repo/master/"
+        }
+      ]
+    },
+    "repository.aliunde": {
+      "version": "1.9.5",
+      "sha256": "4ac74635dad80d94686e6c4c82213bc74bf63219ea3022c692fd988bc07061ab",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://fuse99.com/_aliunde/addons.xml",
+          "checksum": "https://fuse99.com/_aliunde/addons.xml.md5",
+          "datadir": "https://fuse99.com/_aliunde/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/"
+        }
+      ]
+    },
+    "repository.angelitto": {
+      "version": "1.0.2",
+      "sha256": "562a6b53c4c03c7da6af67724fa5fe4de7967206f1715cae4ec353446aa76353",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/angelitto2005/repository.angelitto/main/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/angelitto2005/repository.angelitto/main/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/angelitto2005/repository.angelitto/main/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/angelitto2005/repository.angelitto/main/all/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/angelitto2005/repository.angelitto/main/all/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/angelitto2005/repository.angelitto/main/all/zips/"
+        }
+      ]
+    },
+    "repository.bingie": {
+      "version": "1.0.0",
+      "sha256": "6f3000266abe81332b85c58cafd13ee956829bac206c55ed4225449e2cc2999c",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/matke-84/repository.bingie/main/omega/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/matke-84/repository.bingie/main/omega/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/matke-84/repository.bingie/main/omega/"
+        }
+      ]
+    },
+    "repository.bugatsinho": {
+      "version": "2.8",
+      "sha256": "879c916ca78f708fc5328d64d13b0fca5dbe0ca86041b69ddec60ddd9e90dcd4",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/bugatsinho/bugatsinho.github.io/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/bugatsinho/bugatsinho.github.io/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/bugatsinho/bugatsinho.github.io/master/_zips"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.gz",
+          "checksum": "https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.gz.sha256",
+          "datadir": "https://raw.githubusercontent.com/jsergio123/zips/master/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/bugatsinho/python-koding/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/bugatsinho/python-koding/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/bugatsinho/python-koding/master/zips/"
+        }
+      ]
+    },
+    "repository.castagnait": {
+      "version": "2.0.1",
+      "sha256": "887a9e87b9c4e18cb83fd05a7c7da76674c568c9759084f16ed10bfc596b2a41",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://github.com/CastagnaIT/repository.castagnait/raw/kodi/kodi19/addons.xml",
+          "checksum": "https://github.com/CastagnaIT/repository.castagnait/raw/kodi/kodi19/addons.xml.md5",
+          "datadir": "https://github.com/CastagnaIT/repository.castagnait/raw/kodi/kodi19"
+        }
+      ]
+    },
+    "repository.chainsrepo": {
+      "version": "0.0.15",
+      "sha256": "b20d6c97e2ed9981e8dab5b36d335aa8df4e3e4cb1cc59bf953f4e641dc05223",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/"
+        }
+      ]
+    },
+    "repository.cMaNWizard": {
+      "version": "3.5",
+      "sha256": "1b2055028022c0755ac39537e1fe734ab950bd69fa529ae082c775e96b1774a3",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://cmanbuildsxyz.com/cman/repo/addons.xml",
+          "checksum": "https://cmanbuildsxyz.com/cman/repo/addons.xml.md5",
+          "datadir": "https://cmanbuildsxyz.com/cman/repo/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/"
+        }
+      ]
+    },
+    "repository.cocoscrapers": {
+      "version": "1.0.0",
+      "sha256": "9f32a572818065af9fab6c2131513470dc004fe1bb23e7fc040cfef0239d6b22",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/"
+        }
+      ]
+    },
+    "repository.comet": {
+      "version": "1.0.0",
+      "sha256": "d1ec57368a787fef0ec3a34c14c53c2d6aba001842e7260f760c0de166a744d2",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://g0ldyy.github.io/comet/addons.xml",
+          "checksum": "https://g0ldyy.github.io/comet/addons.xml.md5",
+          "datadir": "https://g0ldyy.github.io/comet/"
+        }
+      ]
+    },
+    "repository.dexe": {
+      "version": "1.0.11",
+      "sha256": "6a25c12d77b718ba4d8038b00c4c7354ee41b096f351b9ff435f430ff73268cf",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/deklica/repo.dexe/master/repo/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/deklica/repo.dexe/master/repo/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/deklica/repo.dexe/master/repo/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/deklica/repo.dexe/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/deklica/repo.dexe/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/deklica/repo.dexe/master/zips/"
+        },
+        {
+          "info": "https://gitfront.io/r/dexe/n7TtSm9NEVFs/dexerepo/raw/addons.xml",
+          "checksum": "https://gitfront.io/r/dexe/n7TtSm9NEVFs/dexerepo/raw/addons.xml.md5",
+          "datadir": "https://gitfront.io/r/dexe/n7TtSm9NEVFs/dexerepo/raw/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/deklica/repo.dexe/master/misc/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/deklica/repo.dexe/master/misc/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/deklica/repo.dexe/master/misc/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/"
+        },
+        {
+          "info": "https://kodiyashimaru.github.io/repo/packages/addons.xml",
+          "checksum": "https://kodiyashimaru.github.io/repo/packages/addons.xml.md5",
+          "datadir": "https://kodiyashimaru.github.io/repo/"
+        },
+        {
+          "info": "https://kodifitzwell.github.io/repo/packages/addons.xml",
+          "checksum": "https://kodifitzwell.github.io/repo/packages/addons.xml.md5",
+          "datadir": "https://kodifitzwell.github.io/repo/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Sam-Max/repository.jacktook/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Sam-Max/repository.jacktook/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Sam-Max/repository.jacktook/master/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml.crc",
+          "datadir": "https://github.com/newt-sc/a4kSubtitles/archive"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://repo.orionoid.com/addons.xml",
+          "checksum": "https://repo.orionoid.com/addons.xml.md5",
+          "datadir": "https://repo.orionoid.com"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/matrix/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/matrix/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/matrix/"
+        },
+        {
+          "info": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/matrix/addons.xml",
+          "checksum": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/matrix/addons.xml.md5",
+          "datadir": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/matrix/download"
+        },
+        {
+          "info": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/nexus/addons.xml",
+          "checksum": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/nexus/addons.xml.md5",
+          "datadir": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/nexus/download"
+        },
+        {
+          "info": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/omega/addons.xml",
+          "checksum": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/omega/addons.xml.md5",
+          "datadir": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/omega/download"
+        },
+        {
+          "info": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/piers/addons.xml",
+          "checksum": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/piers/addons.xml.md5",
+          "datadir": "https://github.com/pkscout/repository.skins.pkscout/raw/refs/heads/piers/download"
+        }
+      ]
+    },
+    "repository.diggz": {
+      "version": "28",
+      "sha256": "732e7263b4fcc823a35a0c54b8500909c6164105cfdf55bb829616c82a168e4c",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/nebulous42069/22/master/22/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/nebulous42069/22/master/22/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/nebulous42069/22/master/22/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/nebulous42069/Omega/main/omega/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/nebulous42069/Omega/main/omega/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/nebulous42069/Omega/main/omega/zips/"
+        }
+      ]
+    },
+    "repository.dis90": {
+      "version": "1.0.1",
+      "sha256": "0ba05cee2f48d6cb0eb5a6180470da885f8e577268b4686aebc67205823f5af6",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/"
+        }
+      ]
+    },
+    "repository.dobbelina": {
+      "version": "1.0.4",
+      "sha256": "713d32a711905a64de538ba2da3e15950170cbb6bc10960e35d6f544db84238c",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/"
+        }
+      ]
+    },
+    "repository.doomzday": {
+      "version": "1.2.3",
+      "sha256": "c6b34d586a592024919a8bf1d5926161b865c5283f51c64313c75570bc222765",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://doomzdayteam.github.io/doomzday/_zipfiles/addons.xml",
+          "checksum": "https://doomzdayteam.github.io/doomzday/_zipfiles/addons.xml.md5",
+          "datadir": "https://doomzdayteam.github.io/doomzday/_zipfiles/"
+        },
+        {
+          "info": "https://the-hermit.com/_repo/addons.xml",
+          "checksum": "https://the-hermit.com/_repo/addonsmd5.txt",
+          "datadir": "https://the-hermit.com/_repo/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.enigmawiz": {
+      "version": "2.1.8",
+      "sha256": "2855cfea3af29e6202faefb896ad2cd6904966c573e624a850095f859c2157bb",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://team-enigma.xyz/repo/zips/addons.xml",
+          "checksum": "https://team-enigma.xyz/repo/zips/addons.xml.md5",
+          "datadir": "https://team-enigma.xyz/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://the-hermit.com/_repo/reauthorize/addons.xml",
+          "checksum": "https://the-hermit.com/_repo/reauthorize/addonsmd5.txt",
+          "datadir": "https://the-hermit.com/_repo/"
+        }
+      ]
+    },
+    "repository.fenskeleton": {
+      "version": "1.0.2",
+      "sha256": "9121f9cd28003de5583168f56094faca45695e76c43859e61ba62227e8c3351c",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://fenskeleton.github.io/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/FenSkeleton/fenskeleton.github.io/main/addons.xml.md5",
+          "datadir": "https://fenskeleton.github.io/zips/"
+        }
+      ]
+    },
+    "repository.frenchdj": {
+      "version": "0.0.3",
+      "sha256": "289c502d9cba1f55c300913c41802ecf5be36a1131a138dc7e156f8e3782c92f",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/frenchdj/repository.frenchdj/master/_repo/"
+        }
+      ]
+    },
+    "repository.fuchs246": {
+      "version": "1.0.2",
+      "sha256": "a964d7cdc8791f7217e129afa16344535f02a09d468fb26f6c0a65e8246e27b6",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/matrix/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/matrix/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/matrix/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/nexus/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/nexus/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/nexus/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/omega/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/omega/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Fuchs246/repository.fuchs246/main/omega/"
+        }
+      ]
+    },
+    "repository.G00380316": {
+      "version": "3.1.1",
+      "sha256": "9a644b2cb75d04f02ee4276a1fbc3b7aada1f4058a0fcd9f796ddbe129e9f0b6",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/G00380316/GIPTV/main/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/G00380316/GIPTV/main/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/G00380316/GIPTV/main/repo/zips/"
+        }
+      ]
+    },
+    "repository.gujal": {
+      "version": "2.0.3",
+      "sha256": "cdcf05587a8084566a8a51ec4e62085a9128e35dcacb0865f7474ebd603bcf7b",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml",
+          "checksum": "https://raw.github.com/Gujal00/GujalKodiWork/master/addons.xml.md5",
+          "datadir": "https://raw.github.com/Gujal00/GujalKodiWork/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.otaku/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.otaku/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.otaku/master/repo/zips/"
+        }
+      ]
+    },
+    "repository.hermit": {
+      "version": "1.5.1",
+      "sha256": "ace3654a1ccd9d54bad29f8bde40a015da5cf1817a2a970579de78d871ca7189",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://the-hermit.com/_repo/addons.xml",
+          "checksum": "https://the-hermit.com/_repo/addonsmd5.txt",
+          "datadir": "https://the-hermit.com/_repo/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://doomzdayteam.github.io/doomzday/_zipfiles/addons.xml",
+          "checksum": "https://doomzdayteam.github.io/doomzday/_zipfiles/addons.xml.md5",
+          "datadir": "https://doomzdayteam.github.io/doomzday/_zipfiles/"
+        }
+      ]
+    },
+    "repository.hooty": {
+      "version": "1.0",
+      "sha256": "e1933893d61a363ec6a3bb8faee9c9aac20f6dc5dc4c38ab129472d0e4488e2e",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/leia/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/leia/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/leia/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/matrix/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/matrix/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/matrix/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/nexus/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/nexus/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.hooty/master/nexus/zips/"
+        }
+      ]
+    },
+    "repository.jewrepo": {
+      "version": "1.6.0",
+      "sha256": "588660ff242702618ea26f9487cac9782d02b7137f54cc79866b0d560842fde9",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/jewbmx/repo/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jewbmx/repo/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jewbmx/repo/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.jurialmunkey": {
+      "version": "3.5",
+      "sha256": "292ad78a35abe2ba18024d2746c92e85b68a551f77a059c74d4132d35d1090f7",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/"
+        }
+      ]
+    },
+    "repository.kodifitzwell": {
+      "version": "0.0.1",
+      "sha256": "de3e29f3eb22de2fd568d4af284a96da66c9ae212d5429f68cb64298f26a9299",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://kodiyashimaru.github.io/repo/packages/addons.xml",
+          "checksum": "https://kodiyashimaru.github.io/repo/packages/addons.xml.md5",
+          "datadir": "https://kodiyashimaru.github.io/repo/"
+        },
+        {
+          "info": "https://kodifitzwell.github.io/repo/packages/addons.xml",
+          "checksum": "https://kodifitzwell.github.io/repo/packages/addons.xml.md5",
+          "datadir": "https://kodifitzwell.github.io/repo/"
+        }
+      ]
+    },
+    "repository.lime": {
+      "version": "1.0.4",
+      "sha256": "66d0af6f8dba7461d3dac0ea8dd17fe086cf3493430449504286e7cb28ec4bb5",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/groggyegg/lime/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/groggyegg/lime/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/groggyegg/lime/master"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.loop": {
+      "version": "3.0.4",
+      "sha256": "9d0addce2bf96831b3d77b85c38f6efda40eddc648b1277b89bf3bdbf20d0431",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://loopaddon.uk/zips19/addons.xml",
+          "checksum": "https://loopaddon.uk/zips19/addons.xml.md5",
+          "datadir": "https://loopaddon.uk/zips19/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.lunatixz": {
+      "version": "1.1.3",
+      "sha256": "0d9e28b8bfb5a775c0887e6cbc1d8d677b8b5d8691c2f0001ce689858d0527c3",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Lunatixz/KODI_Addons/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Lunatixz/KODI_Addons/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Lunatixz/KODI_Addons/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/PseudoTV/PseudoTV_Live/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/PseudoTV/PseudoTV_Live/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/PseudoTV/PseudoTV_Live/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/PseudoTV/PseudoTV_Resources/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/PseudoTV/PseudoTV_Resources/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/PseudoTV/PseudoTV_Resources/master/zips/"
+        }
+      ]
+    },
+    "repository.lynxstrike": {
+      "version": "1.0.05",
+      "sha256": "155f2ec6fd794d55adaa6d888606be443b6ab947075c573a2c3ef5130f89f788",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/lynxstrike/lynxstrike.repo/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/lynxstrike/lynxstrike.repo/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/lynxstrike/lynxstrike.repo/master/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/lynxstrike/lynxstrike.repo/master/lynxstrike_addons/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/lynxstrike/lynxstrike.repo/master/lynxstrike_addons/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/lynxstrike/lynxstrike.repo/master/lynxstrike_addons/zips/"
+        }
+      ]
+    },
+    "repository.Magnetic": {
+      "version": "1.1.0b",
+      "sha256": "de32b79128a041615027116fd9d4a59f4f522fc5a1ef26dbfa1c84bf2c70dbcf",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://magnetic.website/__zips/addons.xml",
+          "checksum": "https://magnetic.website/__zips/addons.xml.md5",
+          "datadir": "https://magnetic.website/__zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.marcelveldt": {
+      "version": "1.0.3",
+      "sha256": "8037623f2f8814b05c01953b2ba52a57539683afa45f2ee5147897768197ddf1",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/repository/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/repository/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/repository/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/matrix/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/matrix/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/matrix/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/olderversions/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/olderversions/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/olderversions/"
+        }
+      ]
+    },
+    "repository.matrix": {
+      "version": "2026.10.02",
+      "sha256": "ad6be2811d1a3cac7b1a94a45034f49542ad1a2a0ef4eecd13553bb79d97d6a7",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.github.com/MetalChris/repository.matrix/master/addons.xml",
+          "checksum": "https://raw.github.com/MetalChris/repository.matrix/master/addons.xml.md5",
+          "datadir": "https://raw.github.com/MetalChris/repository.matrix/master/zips"
+        }
+      ]
+    },
+    "repository.mbebe": {
+      "version": "0.10",
+      "sha256": "1036973a6f5f06e9812d4a9fa215b41b0f46a1c27595728a3857b8b2c440ec49",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/mbebe/blomqvist/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Proximus20001/mb-support/master/zips"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.mdblist": {
+      "version": "1.0.0",
+      "sha256": "57334431afb4aaaa07bfcfede60102fd4a406bce1938429500c229354b875092",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/linaspurinis/repository.mdblist/main/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/linaspurinis/repository.mdblist/main/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/linaspurinis/repository.mdblist/main/repo/zips/"
+        }
+      ]
+    },
+    "repository.mrfixit2001": {
+      "version": "1.0.2",
+      "sha256": "f7166b13251bff94eebf6b51531cb9d2a9d599e844f7f1831403015b241a497c",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/mrfixit2001/mrfixit2001.github.io/main/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/mrfixit2001/mrfixit2001.github.io/main/addons.version",
+          "datadir": "https://raw.githubusercontent.com/mrfixit2001/mrfixit2001.github.io/main/"
+        }
+      ]
+    },
+    "repository.mtr81": {
+      "version": "1.0",
+      "sha256": "70881634c2aeaeae251a5f381a6ea618b1834191fc0c9818252589bacb7c5f08",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://mtr81.github.io/kodi_addons/addons/addons.xml",
+          "checksum": "https://mtr81.github.io/kodi_addons/addons/addons.xml.md5",
+          "datadir": "https://mtr81.github.io/kodi_addons/addons/"
+        }
+      ]
+    },
+    "repository.newdiamond": {
+      "version": "2.2",
+      "sha256": "0019e3fa81cf22b41c9490c90c04f5ccc7aa81f037f42a092bf0092e608cf83b",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://henryjfry.github.io/repository.thenewdiamond/zips/addons.xml",
+          "checksum": "https://henryjfry.github.io/repository.thenewdiamond/zips/addons.xml.md5",
+          "datadir": "https://henryjfry.github.io/repository.thenewdiamond/zips/"
+        }
+      ]
+    },
+    "repository.oldsalt": {
+      "version": "1.6",
+      "sha256": "a2a2f53e694c2a7183cf2c3f697525a059f62420b13f668bd8cc2ff393065e3b",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://github.com/OldManJax/repository.oldsalt/raw/master/addons.xml",
+          "checksum": "https://github.com/OldManJax/repository.oldsalt/raw/master/addons.xml.md5",
+          "datadir": "https://github.com/OldManJax/repository.oldsalt/raw/master/"
+        },
+        {
+          "info": "https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml",
+          "checksum": "https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/zach-morris/repository.zachmorris/master/"
+        },
+        {
+          "info": "https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial_testing/addons.xml",
+          "checksum": "https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial_testing/addons.xml.md5",
+          "datadir": "https://download.osmc.tv/dev/anxdpanic/kodi/youtube/unofficial_testing/zips"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/newt-sc/a4kSubtitles/master/packages/addons.xml.crc",
+          "datadir": "https://github.com/newt-sc/a4kSubtitles/archive"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/nexusrepo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/jurialmunkey/repository.jurialmunkey/master/omega/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/omega/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/omega/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/omega/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/silencebob2/forge-releases/main/repo/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/silencebob2/forge-releases/main/repo/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/silencebob2/forge-releases/main/repo/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Slamious/swzips/main/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Slamious/swzips/main/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Slamious/swzips/main/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.otaku.testing": {
+      "version": "1.0",
+      "sha256": "0c80aa38a37d799ad5c771c96cd72b9084aaa4786761532ae1cb9be48c569a62",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.otaku.testing/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.otaku.testing/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.otaku.testing/master/repo/zips/"
+        }
+      ]
+    },
+    "repository.peno64": {
+      "version": "1.5",
+      "sha256": "207aabea39c2a674c9292b24d21eb6c94c0ee493777f95e309f0ee6b937fe613",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/peno64/repository.peno64/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/peno64/repository.peno64/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/peno64/repository.peno64/master/repo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/peno64/repository.peno64/master/leia/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/peno64/repository.peno64/master/leia/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/peno64/repository.peno64/master/leia/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/peno64/repository.peno64/master/matrix/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/peno64/repository.peno64/master/matrix/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/peno64/repository.peno64/master/matrix/zips/"
+        }
+      ]
+    },
+    "repository.pikdum": {
+      "version": "0.1.0",
+      "sha256": "f736323c6e31cfcfd1a84e31ab717bfde79d16d2861f7dd17dede44c281b679a",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/pikdum/repository.pikdum/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/pikdum/repository.pikdum/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/pikdum/repository.pikdum/master/repo/zips/"
+        }
+      ]
+    },
+    "repository.prism": {
+      "version": "1.0",
+      "sha256": "8f63e2406d471b412ffe7cc26436ccfcbe242d05126775797ba9faca893ed139",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.prism/master/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.prism/master/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Goldenfreddy0703/repository.prism/master/repo/zips/"
+        }
+      ]
+    },
+    "repository.rdplayer": {
+      "version": "1.1.4",
+      "sha256": "cb9f1d5c800e5dfedf758ba4f57486a08d5f4f602a8b7b74e154eb3665011109",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://uckst.b-cdn.net/rdprepo/zips/addons.xml",
+          "checksum": "https://uckst.b-cdn.net/rdprepo/zips/addons.xml.md5",
+          "datadir": "https://uckst.b-cdn.net/rdprepo/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.redwizard": {
+      "version": "1.2.2",
+      "sha256": "dc18126d622105c7c9b90a289355354734615763a2160b6f9e983a62ee7b6a8c",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://repo.redwizard.xyz/redwizardrepo/main/addons.xml",
+          "checksum": "https://repo.redwizard.xyz/redwizardrepo/main/addons.xml.md5",
+          "datadir": "https://repo.redwizard.xyz/redwizardrepo/main/"
+        },
+        {
+          "info": "https://repo.redwizard.xyz/redwizardrepo/21omega/addons.xml",
+          "checksum": "https://repo.redwizard.xyz/redwizardrepo/21omega/addons.xml.md5",
+          "datadir": "https://repo.redwizard.xyz/redwizardrepo/21omega/"
+        },
+        {
+          "info": "https://repo.redwizard.xyz/redwizardrepo/22piers/addons.xml",
+          "checksum": "https://repo.redwizard.xyz/redwizardrepo/22piers/addons.xml.md5",
+          "datadir": "https://repo.redwizard.xyz/redwizardrepo/22piers/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.resolveurl": {
+      "version": "1.0.0",
+      "sha256": "a3d823b3d0c721137e683a64506099d033efc479626a28016346f9c05ed2a106",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.Rising.Tides": {
+      "version": "1.1",
+      "sha256": "0503d6b03d479f7d8dfd5cdec34acac2049b631e4f146867631fb2edfe202d3a",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://mullafabz.xyz/Plugins/K19/Plugins/addons.xml",
+          "checksum": "https://mullafabz.xyz/Plugins/K19/Plugins/addons.xml.md5",
+          "datadir": "https://mullafabz.xyz/Plugins/K19/Plugins/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.Rockcrusher": {
+      "version": "2.8",
+      "sha256": "fdc8faf6e8c09f483dba1554c0fa32e570e3bec0c609ecac7fe9200fb16f9c2a",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://Rockodi.com/Kodi-18/addons.xml",
+          "checksum": "https://Rockodi.com/Kodi-18/addons.xml.md5",
+          "datadir": "https://Rockodi.com/Kodi-18/"
+        },
+        {
+          "info": "https://Rockodi.com/Kodi-19/addons.xml",
+          "checksum": "https://Rockodi.com/Kodi-19/addons.xml.md5",
+          "datadir": "https://Rockodi.com/Kodi-19/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        }
+      ]
+    },
+    "repository.rocky4546": {
+      "version": "0.2.4",
+      "sha256": "ccd83d8496187a71029b6dc239603882d2e10aad61ea45632678a385dce6b555",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/rocky4546/gominoa-xbmc-addons/Matrix/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/rocky4546/gominoa-xbmc-addons/Matrix/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/rocky4546/gominoa-xbmc-addons/Matrix/repo"
+        }
+      ]
+    },
+    "repository.sandmann79.plugins": {
+      "version": "1.0.4",
+      "sha256": "95ced51a9ce7f1732e132a4c51fdbe31e0f330f4728fc29085194d0f7adb8aeb",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages-py3/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages-py3/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages-py3/"
+        }
+      ]
+    },
+    "repository.slyguy.inputstreamhelper": {
+      "version": "0.0.1",
+      "sha256": "5226b117c71bccb8657005085a2f19a539d679c6eeb564925b7a0bc021b70b74",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://slyguy.uk/.repo/repository.slyguy.inputstreamhelper/addons.xml",
+          "checksum": "https://slyguy.uk/.repo/repository.slyguy.inputstreamhelper/addons.xml.md5",
+          "datadir": "https://slyguy.uk/.repo/repository.slyguy.inputstreamhelper/"
+        }
+      ]
+    },
+    "repository.slyguy": {
+      "version": "0.0.9",
+      "sha256": "079915885866a5cbb8f17191c5ee8f7d044d7a9e788e96d116c9f1bc8bb4c3c0",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://slyguy.uk/.repo/repository.slyguy/addons.xml",
+          "checksum": "https://slyguy.uk/.repo/repository.slyguy/addons.xml.md5",
+          "datadir": "https://slyguy.uk/.repo/repository.slyguy/"
+        }
+      ]
+    },
+    "repository.tekbec": {
+      "version": "1.0.0",
+      "sha256": "87f5c39c54a23f06f0465836e726b23549ad213cddd92db195a1ac962a38fedd",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/tekbec/repository.tekbec/main/repo/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/tekbec/repository.tekbec/main/repo/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/tekbec/repository.tekbec/main/repo/zips/"
+        }
+      ]
+    },
+    "repository.thecrew": {
+      "version": "0.3.8",
+      "sha256": "686e616ecd7d60906fd7975fe9ccaa09360c8cf0c65ba3431e6d81700b0f6ec0",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/unhingedthemes/zips/main/_zips/"
+        },
+        {
+          "info": "https://github.com/OldManJax/repository.animaniac/raw/master/addons.xml",
+          "checksum": "https://github.com/OldManJax/repository.animaniac/raw/master/addons.xml.md5",
+          "datadir": "https://github.com/OldManJax/repository.animaniac/raw/master/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/"
+        }
+      ]
+    },
+    "repository.tidb.repo": {
+      "version": "2.0.0",
+      "sha256": "8839712d9097539f6bcf983214dbab9c9b2139226b3ee26a2e8d4607aa0922ee",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/TheIntroDB/kodi-addon/main/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/TheIntroDB/kodi-addon/main/addons.xml.md5",
+          "datadir": "https://theintrodb.github.io/kodi-addon/"
+        }
+      ]
+    },
+    "repository.umbrella": {
+      "version": "2.2.6",
+      "sha256": "055105e00c7da090cc124947bc5c5e9cdae310f8687fc4c16f83d51b89750128",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/matrix/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/nexus/zips/"
+        },
+        {
+          "info": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/omega/zips/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/omega/zips/addons.xml.md5",
+          "datadir": "https://raw.githubusercontent.com/umbrellaplug/umbrellaplug.github.io/master/omega/zips/"
+        }
+      ]
+    },
+    "repository.vstream": {
+      "version": "0.0.6",
+      "sha256": "a1c7629f0c314d4cd056dc515a09bfefb0bd66ff8b3d1b19d97ad4548c0650b4",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml",
+          "checksum": "https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5",
+          "datadir": "https://github.com/Kodi-vStream/venom-xbmc-addons/raw/master/repo"
+        }
+      ]
+    },
+    "repository.zachmorris": {
+      "version": "1.0.4",
+      "sha256": "3dde8f37dcd64f122cf1e897e139e5b8b7a3cd0ec15db6a1f5c7b59852cb661b",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml",
+          "checksum": "https://github.com/zach-morris/repository.zachmorris/raw/master/addons.xml.md5",
+          "datadir": "https://github.com/zach-morris/repository.zachmorris/raw/master/"
+        }
+      ]
+    },
+    "repository.zstream": {
+      "version": "1.0.1",
+      "sha256": "e06da368b08f0cb29031a733c19bdb94c852f8ba08ae64dcf177d3482d9552af",
+      "identical_to_owner_tested_package": true,
+      "original_directories": [
+        {
+          "info": "https://rgvmdtc.github.io/zStream.io/addons.xml",
+          "checksum": "https://rgvmdtc.github.io/zStream.io/addons.xml.md5",
+          "datadir": "https://rgvmdtc.github.io/zStream.io/"
+        }
+      ]
+    }
+  },
+  "native_kodi_repository_retained": true,
+  "reference_records": 74,
+  "excluded": 11,
+  "desktop_binary_files": [],
+  "deleted_test_source_runtime_references": false,
+  "packaged_external_repositories": 62,
+  "wizard_sha256": "73308bcfb5ddbf8266b619c109dd862efa40a147086cd697d9cfe328d0588c3b"
+}

@@ -43,3 +43,5 @@ Previous stable versioned packages are retained unchanged for recovery. Do not i
 - repository.twistednutz: No verified compatible publisher package found
 - repository.wod: No verified compatible publisher package found
 - repository.zeus768: No verified compatible publisher package found
+
+Repository preservation audit: [REPOSITORY-PRESERVATION-0.4.10.json](REPOSITORY-PRESERVATION-0.4.10.json). All62repositoryZIPs and the74-record catalogue are byte-identical to the owner-tested build. Original publisher IDs,versions,artwork and update directory metadata are preserved.
