@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.fenskeleton" name="repository.fenskeleton" version="1.0.2" provider-name="FenSkeleton"><extension point="xbmc.addon.repository"><dir><info>https://fenskeleton.github.io/addons.xml</info><checksum>https://raw.githubusercontent.com/FenSkeleton/fenskeleton.github.io/main/addons.xml.md5</checksum><datadir>https://fenskeleton.github.io/zips/</datadir></dir></extension><extension point="xbmc.addon.metadata"><path>repository.fenskeleton-1.0.2.zip</path><platform>all</platform></extension></addon></addons>

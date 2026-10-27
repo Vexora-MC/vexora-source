@@ -1,0 +1,20 @@
+{
+  "version": "0.4.10",
+  "firstparty": {
+    "plugin.program.vexora": {
+      "version": "0.4.10",
+      "sha256": "73308bcfb5ddbf8266b619c109dd862efa40a147086cd697d9cfe328d0588c3b"
+    },
+    "skin.vexora": {
+      "version": "0.4.10",
+      "sha256": "ce2bfa94091dbdfedb5aaff74c1fcae40481095cedf9d732a535ad1a151dbb69"
+    },
+    "repository.vexora": {
+      "version": "0.4.10",
+      "sha256": "af5109b17485971bfcfc6cd89c35381597118dd9a14a1b325c209dbeb104ef7e"
+    }
+  },
+  "nested_skin_and_repository_versions_match": true,
+  "full_build_addon_versions_match": true,
+  "test_update_urls_present": false
+}

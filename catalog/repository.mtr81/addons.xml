@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.mtr81" name="repository.mtr81" version="1.0" provider-name="lg"><extension point="xbmc.addon.repository"><dir><info>https://mtr81.github.io/kodi_addons/addons/addons.xml</info><checksum>https://mtr81.github.io/kodi_addons/addons/addons.xml.md5</checksum><datadir>https://mtr81.github.io/kodi_addons/addons/</datadir></dir></extension><extension point="xbmc.addon.metadata"><path>repository.mtr81.zip</path><platform>all</platform></extension></addon></addons>

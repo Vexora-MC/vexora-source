@@ -1,81 +1,45 @@
-# Vexora Windows / Kodi 21 test build
+# Vexora 0.4.10 production release
 
-## 0.3.4 charcoal/neon menu update
+Promoted from the owner-accepted0.4.10~test4 build. The owner explicitly reported all Xbox and PC testing OK and authorised production publication and removal of test sources. Agent verification uses disposable Windows Kodi21.3; the agent did not physically operate an Xbox.
 
-Update Wizard and skin to 0.3.4, then restart Kodi. Buttons, file/context menus, keyboard, settings, confirmations and playback controls use charcoal panels and silver focus edges with neon-green accents. Added themed native add-on settings, numeric input and slider layouts, plus compact notification/progress overlays. Poster artwork and main-tab focus styles remain. Explicit provider colour tags are removed in Vexora Home metadata; providers' independent custom interfaces are outside this skin audit. Automated checks pass; interaction acceptance of the newly supplied native input/settings dialogs remains pending.
+All current first-party components use0.4.10: repository.vexora,plugin.program.vexora,skin.vexora,the full-build filename,hosted catalogue,release manifest and bundled skin/repository manifests. All update channels point to https://vexora-mc.github.io/vexora-source/ . Third-party publishers retain their original IDs,versions and update sources.
 
+## Included changes
 
-## 0.3.1 Power menu update
+One complete-build consent covers the original seven repositories and the expanded deduplicated ecosystem:62 verified external repository archives+1Kodi-managed repository+11 explicit exclusions account for74 records. No desktop runtime binaries are bundled. Kodi resolves native dependencies. Safe backups,cancellation,retries,recovery and delayed startup update checks remain. No silent whole-build replacement.
 
-Wizard and skin 0.3.1 add a POWER button at the top-right; Up from any main navigation tab reaches it. Close Kodi uses normal Kodi Quit. Force close Kodi is Windows-only, verifies that the current host is kodi.exe, then requests explicit confirmation before immediate process exit. Unsaved settings/operations may be lost; use normal Close first. An in-app button cannot work when Kodi is completely unresponsive.
+Automatic skin activation and restart persistence. Authoritative installed/disabled/missing add-on tile states,including RisingTides. Kids Animation/Family preserved. LiveTV navigation removed;noMusic section. Sports Boxing row dynamically uses MadTitan LiveSports/Boxing;Football row enters BOTH RisingTides PL ALL GAMES CLICK HERE SERVER1/SERVER2 folders and displays their games directly,not menu links. Provider art/playback URLs retained;no fixed event URLs.
 
-Native disposable Windows Kodi 21.3 tests confirmed both normal Close and confirmed Force close terminate Kodi as intended. Kids now displays unrated entries from the dedicated Crew Kids feeds, as requested.
+## Validation
 
-After updating the Wizard and skin, restart Kodi once so the updated plugin is loaded before home widgets refresh. The user confirmed this resolves the temporarily empty pages seen immediately after the previous update. Repository remains 0.2.2. Previous versioned packages are retained.
+291 automated tests,2 privilege-dependent skips,0failures. Actual stable0.4.8->0.4.10 native Wizard upgrade:one selection dialog,ONE full-build confirmation,summary visible,all seven providers installed/dependencies ready,repository report registered,skin.vexora activated. After clean normal shutdown/restart,repository/Wizard/skin0.4.10 all enabled and active skin persisted. Stable Football directory returns10 game cards. Native source/checksum/version/channel validation passed. Xbox/PC physical acceptance is owner-reported for the tested baseline;stable-ID packaging/upgrade is agent-verified on Windows.
 
+## Install or update
 
-## 0.3.0 repository test update
+Kodi FileManager/Addsource: https://vexora-mc.github.io/vexora-source/
 
-Available test versions: Wizard 0.3.0, skin 0.3.0 and Vexora Repository 0.2.2. This is a user-testable development update, not a claim that new runtime acceptance is complete. Previous skin 0.2.6 and Wizard 0.2.13 archives remain available as fallback (avoid Wizard 0.2.12).
+Install repository.vexora.zip FIRST. Then Installfromrepository/VexoraRepository/Programaddons/VexoraWizard. Existing production users can check repository updates and update to0.4.10. Open Wizard and choose the full build to apply coordinated configuration/skin upgrades;confirm once.
 
-Existing installation: open Kodi Add-on browser > Check for updates. Update Vexora Repository to 0.2.2 first, then Vexora Wizard and Vexora skin to 0.3.0 through Vexora Repository (Program add-ons / Look and feel > Skin), or Available updates. If a version is not shown, refresh repository updates and reopen its listing. Reopen Wizard > Install Vexora build to back up affected files and install/verify all six publisher repositories; updating the skin alone does not run build setup.
+Existing TEST users: test identities are separate and do not turn into production through updates. Install the production repository and production Wizard above,run the complete build,then remove the old TEST repository/Wizard/skin through Kodi after production is active. Remote test sources are being retired after live production verification. A fresh isolated install remains the cleanest migration path;avoid manually deleting active skin files or databases.
 
-New UI includes KIDS after TV SHOWS, TMDB poster rows, separate Sports tiles, four additional native repository sources, and direct single-add-on OK/Cancel installation. Kodi security/origin/dependency confirmations remain Kodi-owned. Optional video add-ons stay optional; Crew is shared by Movies, Sports and Kids. Third-party packages are downloaded from publishers and never bundled.
+Wizard: zips/plugin.program.vexora/plugin.program.vexora-0.4.10.zip
+Repository: zips/repository.vexora/repository.vexora-0.4.10.zip (root alias repository.vexora.zip)
+Skin: zips/skin.vexora/skin.vexora-0.4.10.zip
+Full build: vexora-build-0.4.10.zip
+Full-build SHA256: 9b7cfbf205e9017220bc1408a9f04fe0941f58aa9c037cfd07509625fbe489d9
 
-Automated suites: 147 passed, two Windows symlink skips before version bump. Current native evidence: eight tabs render, Movies artwork/metadata loads and missing-Crew Kids fallback works. Populated Kids artwork/ratings/selection, all additional native installs and full upgrade acceptance still need testing. Kids now shows all entries returned by the dedicated Crew Kids categories, including unrated entries, as requested. It is not certified child-safe. Xbox is queued after Windows acceptance and is not supported by this test claim.
+Previous stable versioned packages are retained unchanged for recovery. Do not install old versions over newer working packages.
 
-The results below describe earlier versions and must not be read as acceptance of every 0.3.0 feature.
+## Repository exclusions
 
-Portable Windows installation testing passed for Vexora Wizard 0.2.9, skin 0.2.4 and Vexora Repository 0.2.1 on Kodi 21.3. This is a development test build, not a production release. See WINDOWS_TEST_RESULTS.md for evidence and limits.
-
-## Install the complete build
-
-1. Install and open Kodi 21 Omega on Windows.
-2. Kodi Settings > File manager > Add source.
-3. Enter https://vexora-mc.github.io/vexora-source/ and name it Vexora.
-4. Add-ons > Install from ZIP > Vexora > repository.vexora.zip. If Kodi requires Unknown sources, review its warning and enable it yourself.
-5. Install from repository > Vexora Repository > Program add-ons > Vexora Wizard > Install.
-6. Open Vexora Wizard > Install Vexora build and accept the whole-build consent.
-7. Complete Kodi's native installation prompts. The Wizard downloads the original skin and BOTH mandatory repositories from hosted HTTPS sources, validates them and verifies the installed files.
-8. Keep the Vexora skin when Kodi asks. Success is reported only after activation is confirmed.
-9. Movies and Sports display artwork tiles. An available tile requests native add-on installation; an installed tile launches only after enabled-state and transitive-dependency verification.
-
-Only the initial Vexora Repository bootstrap uses Install from ZIP. No computer-local third-party ZIP selection is required. Neither mandatory repository has a separate decline path: canceling either cancels the build. The Wizard backs up affected folders, settings and a consistent add-on database before deployment.
-
-Mandatory repositories are Angelitto 1.0.2 and Rising Tides 1.1. Video add-ons are optional: TMDB Movies 1.1.320 and Rising Tides 3.2.10.9 were installed and launched during testing. No third-party ZIPs are redistributed in Vexora.
-
-## Existing Vexora preview skins
-
-If an older manually installed Vexora skin is present, the Wizard opens Kodi's Vexora Repository skin listing before deployment. Select Vexora and use Install, Update or Versions as offered by Kodi to install the version requested by the Wizard. Accept Kodi's replacement confirmation, then reopen the Wizard > Install Vexora build. Update the Wizard first if its requested skin version is unavailable. This flow was tested from manual skin 0.1.0 to hosted skin 0.2.4.
-
-The legacy skin replacement is a separate Kodi update before the new build transaction. Preserve any custom legacy skin edits before replacing it.
-
-## Recovery
-
-Backups are in special://profile/addon_data/plugin.program.vexora/backups/build-ID/transaction.json. Failed or interrupted deployment retains a recovery_required journal. Close Kodi before restoring.
-
-Download vexora-recovery-tools.zip from the same public source, extract it, and use Python 3.11 or newer:
-
-```powershell
-python tools/restore_build.py "C:\path\to\backup\build-ID" --kodi-stopped --home "C:\path\to\KodiData" --userdata "C:\path\to\KodiData\userdata"
-```
-
-Use the exact Kodi data paths from the transaction journal; the home argument is the Kodi data directory containing addons, not the application executable directory. Recovery verifies hashes and target paths before restoring settings, affected folders and the add-on database. It removes build-created folders that were absent before installation. Libraries and unrelated files are preserved. Optional add-ons installed later remain separate Kodi-managed installations.
-
-## Limits and package choice
-
-Live TV requires your own configured PVR client and channel source. Installation, navigation and add-on root launches were tested; media playback, external accounts and PVR channel playback were not. Android, Fire TV and Xbox have not been validated.
-
-For the downloadable Windows test bundle, use the GitHub Actions artifact named vexora-windows-kodi21-test-build. It contains this guide, test results, the repository bootstrap, original Wizard/skin packages, checksums and recovery tools. GitHub access to the private development repository is required; ordinary Kodi users can install using the public source URL.
-
-The separate vexora-build-development.zip is a developer staging payload, not a Kodi ZIP installer; its install_ready=false marker remains intentional. Install the complete build through Vexora Wizard.
-
-## App-container access-denied fix (Wizard 0.2.10)
-
-Wizard 0.2.10 fixes parent-folder inspection failing with WinError 5 beneath a protected Kodi app-package directory. Actual target access failures still stop setup; links and Windows reparse points remain rejected. Update Wizard through Vexora Repository before retrying. Do not change package-folder permissions or run Kodi as administrator to work around this error. Regression tests simulate the restricted ancestor; Windows Store/Xbox runtime validation remains outstanding.
-
-## Mouse pointer and playback controls (skin 0.2.6)
-
-Update Vexora under Install from repository > Vexora Repository > Look and feel > Skin to 0.2.6; update Vexora Wizard to 0.2.13 as well to keep its bundled skin version aligned. Restart Kodi after the update. Reinstalling the full build is not required for these skin fixes.
-
-During fullscreen playback, move the mouse or press M / OK to show the controls. Play/pause, Stop, Rewind, Forward, Volume -/+, Mute and a clickable seek timeline are available. Use arrows and OK with a keyboard or remote; Back closes the overlay. Seeking and pause availability follow the playing stream's capabilities. Audio passthrough may require volume adjustment on the receiver.
+- repository.Fido: No verified compatible publisher package found
+- repository.Palantir: No verified compatible publisher package found
+- repository.a4kstreaming: No verified compatible publisher package found
+- repository.djaythemes: No verified compatible publisher package found
+- repository.funstersplace: No verified compatible publisher package found
+- repository.gearheads2: No verified compatible publisher package found
+- repository.grindhousekodi: No verified compatible publisher package found
+- repository.stremioforkodi: No verified compatible publisher package found
+- repository.twistednutz: No verified compatible publisher package found
+- repository.wod: No verified compatible publisher package found
+- repository.zeus768: No verified compatible publisher package found

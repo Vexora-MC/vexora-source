@@ -1,47 +1,45 @@
-# Vexora 0.4.7 - installation and recovery
+# Vexora 0.4.10 production release
 
-This distribution contains one complete Vexora build: Wizard 0.4.7, skin 0.4.7 and repository 0.4.7. The identical Wizard ZIP is used for Windows PC and UWP/Xbox Kodi 21. There is one source and update channel: https://vexora-mc.github.io/vexora-source/ . Physical Xbox One/Series S/Series X validation is pending; treat the prepared distribution as a release candidate until those checks pass.
+Promoted from the owner-accepted0.4.10~test4 build. The owner explicitly reported all Xbox and PC testing OK and authorised production publication and removal of test sources. Agent verification uses disposable Windows Kodi21.3; the agent did not physically operate an Xbox.
 
-## Install after coordinated publication is approved
+All current first-party components use0.4.10: repository.vexora,plugin.program.vexora,skin.vexora,the full-build filename,hosted catalogue,release manifest and bundled skin/repository manifests. All update channels point to https://vexora-mc.github.io/vexora-source/ . Third-party publishers retain their original IDs,versions and update sources.
 
-1. Keep the currently working Vexora installation and export important personal settings. Do not uninstall Kodi or delete its profile.
-2. Open Kodi 21. Add the source URL above in File manager. Install `repository.vexora.zip` from that source, reviewing Kodi's security prompts yourself.
-3. Install or update Vexora Wizard from Vexora Repository > Program add-ons, and the matching Vexora skin from Look and feel > Skin. Both must be 0.4.7. The Wizard opens Kodi's native version-selection UI if an older skin needs updating; complete that update, then reopen the Wizard.
-4. Restart Kodi after updating the Wizard and skin to ensure new widget code is loaded. Open Wizard > Install Vexora build. Read the full-build consent.
-5. The same installer validates publisher archives, probes only Kodi's translated add-on/profile directories, backs up affected files and the add-on database, installs and verifies all six repositories through Kodi, verifies skin files and requests skin activation. Confirm keeping the skin if Kodi asks. Cancel stops the operation; failures retain the recovery checkpoint.
-6. Choose optional video add-ons during first-run setup or later from their artwork tiles. A tile has one Vexora OK/Cancel install confirmation. Kodi may require its own origin/security/dependency prompts. Kodi resolves required dependencies; ready state is verified before launching.
+## Included changes
 
-Mandatory sources are Angelitto and Rising Tides; the build also installs JewRepo, The Crew, Bugatsinho and The Loop repository sources. Optional providers remain in their existing sections. Kids uses TMDB Movies Animation genre16 and Family genre10751, with no third TV row. Genres are not age ratings; this is not a parental-control or child-safe guarantee. Third-party ZIPs are never redistributed in this package.
+One complete-build consent covers the original seven repositories and the expanded deduplicated ecosystem:62 verified external repository archives+1Kodi-managed repository+11 explicit exclusions account for74 records. No desktop runtime binaries are bundled. Kodi resolves native dependencies. Safe backups,cancellation,retries,recovery and delayed startup update checks remain. No silent whole-build replacement.
 
-## Controls
+Automatic skin activation and restart persistence. Authoritative installed/disabled/missing add-on tile states,including RisingTides. Kids Animation/Family preserved. LiveTV navigation removed;noMusic section. Sports Boxing row dynamically uses MadTitan LiveSports/Boxing;Football row enters BOTH RisingTides PL ALL GAMES CLICK HERE SERVER1/SERVER2 folders and displays their games directly,not menu links. Provider art/playback URLs retained;no fixed event URLs.
 
-Mouse/keyboard and native remote/controller focus are supported by the same skin. Left/Right selects a main tab, Down enters its controls/poster rows, Up returns to navigation, Select opens the focused entry, and Back/Escape returns or cancels. Press Up from a main tab to reach the neon power symbol. Close Kodi uses native Quit. Force close is desktop Windows only, excluded on UWP/Xbox before importing desktop APIs, and requires confirmation; unsaved state can be lost. Use the console dashboard to terminate an unresponsive Xbox application.
+## Validation
 
-## Recovery on either platform
+291 automated tests,2 privilege-dependent skips,0failures. Actual stable0.4.8->0.4.10 native Wizard upgrade:one selection dialog,ONE full-build confirmation,summary visible,all seven providers installed/dependencies ready,repository report registered,skin.vexora activated. After clean normal shutdown/restart,repository/Wizard/skin0.4.10 all enabled and active skin persisted. Stable Football directory returns10 game cards. Native source/checksum/version/channel validation passed. Xbox/PC physical acceptance is owner-reported for the tested baseline;stable-ID packaging/upgrade is agent-verified on Windows.
 
-Wizard > Recovery backups offers native **Undo setup** for newly created backups. It restores the previous skin selection and the original enabled/disabled states of managed skin/repositories through Kodi APIs. Newly downloaded packages are retained but disabled. It checks the profile, managed ID allowlist and original versions before changes; version differences require Kodi's own Versions workflow. Confirm the previous skin if asked. This operation does not downgrade files, restore a live database or remove unrelated add-ons.
+## Install or update
 
-Existing pre-0.4.7 backups do not contain enabled-state snapshots and require full offline recovery. A partially completed native undo retains its journal and can be retried. If the previous skin has been removed/disabled, restore/enable it in Kodi first. If setup cannot open, switch to Kodi's bundled skin through Interface settings and reopen the Wizard.
+Kodi FileManager/Addsource: https://vexora-mc.github.io/vexora-source/
 
-## Full stopped-Kodi restore
+Install repository.vexora.zip FIRST. Then Installfromrepository/VexoraRepository/Programaddons/VexoraWizard. Existing production users can check repository updates and update to0.4.10. Open Wizard and choose the full build to apply coordinated configuration/skin upgrades;confirm once.
 
-For byte-for-byte file/database recovery on Windows, close Kodi completely and run the bundled `tools/restore_build.py` using Python3.11+, supplying the exact backup path and recorded home/profile paths with `--kodi-stopped --home ... --userdata ...`. The tool validates scope, paths and every backup hash before changes. Never run it against a live Kodi database. The package contains this offline utility for exported console backups too, but running desktop Python is not an on-console operation. Native Undo setup is the supported in-Kodi state recovery; full console database restoration remains an owner-assisted recovery task and must be tested separately.
+Existing TEST users: test identities are separate and do not turn into production through updates. Install the production repository and production Wizard above,run the complete build,then remove the old TEST repository/Wizard/skin through Kodi after production is active. Remote test sources are being retired after live production verification. A fresh isolated install remains the cleanest migration path;avoid manually deleting active skin files or databases.
 
-## Previous working release
+Wizard: zips/plugin.program.vexora/plugin.program.vexora-0.4.10.zip
+Repository: zips/repository.vexora/repository.vexora-0.4.10.zip (root alias repository.vexora.zip)
+Skin: zips/skin.vexora/skin.vexora-0.4.10.zip
+Full build: vexora-build-0.4.10.zip
+Full-build SHA256: 9b7cfbf205e9017220bc1408a9f04fe0941f58aa9c037cfd07509625fbe489d9
 
-Skin0.3.6 and Wizard0.3.7 are retained unchanged as the owner-confirmed Windows fallback. Original versioned archives stay at `zips/skin.vexora/skin.vexora-0.3.6.zip` and `zips/plugin.program.vexora/plugin.program.vexora-0.3.7.zip` beneath the same public source. Preserve the current backup and select/install original packages through Kodi's supported native add-on workflow; do not overwrite existing files manually or reuse published version numbers. The initial skin version update precedes the build transaction, so native Undo setup restores selection/state rather than downgrading that update.
+Previous stable versioned packages are retained unchanged for recovery. Do not install old versions over newer working packages.
 
-## Xbox acceptance required
+## Repository exclusions
 
-Before declaring console support, the owner must verify the exact console/Kodi version, source access, sandbox path write/rename/backup behaviour, native installs and dependencies, every main tab, TMDB Kids posters, controller focus/Back/Select, playback controls, cancellation and recovery. Windows tests and simulated UWP flags are not physical-console evidence.
-
-
-### InputStream Adaptive on Xbox
-
-The publisher documents that InputStream Adaptive is embedded in Kodi on UWP/Xbox and is updated with Kodi itself: https://github.com/xbmc/inputstream.adaptive/wiki/How-to-install-and-get-updates . Use the console's bundled version; do not install a desktop Windows binary ZIP. The dependency audit's windows-x86_64 marker describes the Windows fixture, not a package to ship to Xbox. Native Kodi must confirm the actual console version meets each provider's requirement. DRM and individual media-service compatibility remain provider/platform specific.
-
-## Automatic update checks and maintenance
-
-From0.4.7 the Wizard includes a delayed background update check. After45seconds it waits forHome with no playback/dialog/installer, checks Vexora's HTTPSindex atmostonceaday and offers Kodi's native Updates screen for newer versions. Select Later to defer; no extra manual build assembly. Install this firstupdate throughKodi'snormalupdateUI toenablefutureprompts.
-
-Automatic cleanup retains each installed installer ZIP and the two newest cached packages per add-on; only surplus ZIPs older than7days and abandoned Vexora tempfiles older than1day are removed. Artwork, thumbnails, provider caches and backups are retained. This avoids forcing slow artwork downloads at each startup. Media sections load on first visit and stayloaded for the session. Provider/network first-load time is not eliminated.
+- repository.Fido: No verified compatible publisher package found
+- repository.Palantir: No verified compatible publisher package found
+- repository.a4kstreaming: No verified compatible publisher package found
+- repository.djaythemes: No verified compatible publisher package found
+- repository.funstersplace: No verified compatible publisher package found
+- repository.gearheads2: No verified compatible publisher package found
+- repository.grindhousekodi: No verified compatible publisher package found
+- repository.stremioforkodi: No verified compatible publisher package found
+- repository.twistednutz: No verified compatible publisher package found
+- repository.wod: No verified compatible publisher package found
+- repository.zeus768: No verified compatible publisher package found

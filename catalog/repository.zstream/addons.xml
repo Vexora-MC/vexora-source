@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<addons><addon id="repository.zstream" name="repository.zstream" version="1.0.1" provider-name="zStream Team"><extension point="xbmc.addon.repository"><dir><info>https://rgvmdtc.github.io/zStream.io/addons.xml</info><checksum>https://rgvmdtc.github.io/zStream.io/addons.xml.md5</checksum><datadir>https://rgvmdtc.github.io/zStream.io/</datadir></dir></extension><extension point="xbmc.addon.metadata"><path>repository.zstream-1.0.1.zip</path><platform>all</platform></extension></addon></addons>
