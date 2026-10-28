@@ -1,0 +1,16 @@
+{
+  "native_windows": true,
+  "physical_xbox": false,
+  "setup": "Stopped disposable profile: Wizard origin associated to emulate owner report; skin origin deliberately empty; no product DB writes.",
+  "initial_origins": {
+    "plugin.program.vexora": "repository.vexora",
+    "repository.vexora": "repository.vexora",
+    "skin.vexora": ""
+  },
+  "initial_versions": {
+    "skin.vexora": "0.4.14",
+    "plugin.program.vexora": "0.4.14"
+  },
+  "candidate_wizard_sha256": "200038aabf536b8e7aacbbaf173765cabede62d914da763e2e1427a1a79eabc1",
+  "feed_scope": "Loopback-only native repository test; shipped package URLs remain production."
+}

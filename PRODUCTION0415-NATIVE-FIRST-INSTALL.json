@@ -1,0 +1,28 @@
+{
+  "native_windows": true,
+  "physical_xbox": false,
+  "native_installaddon": true,
+  "skin_initially_absent": true,
+  "wizard_initially_absent": true,
+  "exact_wizard_prompt_approved": true,
+  "passed": true,
+  "versions": {
+    "plugin.program.vexora": {
+      "addonid": "plugin.program.vexora",
+      "enabled": true,
+      "type": "xbmc.python.pluginsource",
+      "version": "0.4.15"
+    },
+    "skin.vexora": {
+      "addonid": "skin.vexora",
+      "enabled": true,
+      "type": "xbmc.gui.skin",
+      "version": "0.4.15"
+    }
+  },
+  "origins": {
+    "plugin.program.vexora": "repository.vexora",
+    "skin.vexora": "repository.vexora"
+  },
+  "installed_skin_matches_final_archive": true
+}
